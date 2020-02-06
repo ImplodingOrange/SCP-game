@@ -6700,3 +6700,417 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.06-11.57.24:761][126]AssetCheck: New page: Asset Save: Level_1
 [2020.02.06-11.57.24:761][126]LogContentValidation: Display: Validating World /Game/SCP/Levels/Level_1.Level_1
 [2020.02.06-11.57.24:792][127]LogConcert: Display: Synced activity '2876' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan saved package /Game/SCP/Levels/Level_1.
+[2020.02.06-11.58.19:535][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.06-11.58.19:562][417]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Level_1158FAA47428CE913AB030684BB8295C0.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Levels/Level_1.umap'
+[2020.02.06-11.58.19:599][417]AssetCheck: New page: Asset Save: Level_1
+[2020.02.06-11.58.19:599][417]LogContentValidation: Display: Validating World /Game/SCP/Levels/Level_1.Level_1
+[2020.02.06-11.58.19:623][418]LogConcert: Display: Synced activity '2877' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan saved package /Game/SCP/Levels/Level_1.
+[2020.02.06-11.59.30:073][987]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Boomsatsuma\Downloads\scp-173\source\173_2_b3d\173_2.b3d (1).obj)
+[2020.02.06-11.59.30:102][987]LogFbx: Loading FBX Scene from C:\Users\Boomsatsuma\Downloads\scp-173\source\173_2_b3d\173_2.b3d (1).obj
+[2020.02.06-11.59.30:185][987]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.06-11.59.32:563][987]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.06-11.59.32:970][987]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/54F789814CB30F48052581B46729FC79DE76BAF94EAE2392993CA19649DF1E24.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/54F789814CB30F48052581B46729FC79.uasset'
+[2020.02.06-11.59.32:978][987]LogMaterial: Display: Missing cached shader map for material Scene_RootMat, compiling. 
+[2020.02.06-11.59.33:010][987]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.02.06-11.59.33:010][987]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.02.06-11.59.33:010][987]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.06-11.59.33:010][987]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.06-11.59.33:010][987]LogStaticMesh: Building static mesh 173_2_b3d__1_...
+[2020.02.06-11.59.33:072][987]LogStaticMesh: Built static mesh [0.06s] /Game/SCP/173_2_b3d__1_.173_2_b3d__1_
+[2020.02.06-11.59.33:101][987]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.06-11.59.33:202][987]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/99A450A94EA0B168030A8182D62A50CB2B27970D4C496946A6E5BCAEBDA04240.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/99A450A94EA0B168030A8182D62A50CB.uasset'
+[2020.02.06-11.59.33:310][988]LogConcert: Display: Synced activity '2878' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/173_2_b3d__1_.
+[2020.02.06-11.59.33:326][988]LogConcert: Display: Synced activity '2879' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan added package /Game/SCP/Scene_RootMat.
+[2020.02.06-11.59.33:327][988]LogConcert: Display: Synced activity '2880' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/Scene_RootMat.
+[2020.02.06-11.59.33:354][988]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.06-11.59.33:354][988]LogContentValidation: Display: Validating Material /Game/SCP/Scene_RootMat.Scene_RootMat
+[2020.02.06-11.59.33:354][988]LogContentValidation: Display: Validating StaticMesh /Game/SCP/173_2_b3d__1_.173_2_b3d__1_
+[2020.02.06-11.59.33:550][991]LogConcert: Display: Synced activity '2881' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan added package /Game/SCP/173_2_b3d__1_.
+[2020.02.06-11.59.33:551][991]LogConcert: Display: Synced activity '2882' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/173_2_b3d__1_.
+[2020.02.06-11.59.37:643][117]LogSlate: Window 'Message Log' being destroyed
+[2020.02.06-11.59.37:655][117]LogSlate: Window 'Message Log' being destroyed
+[2020.02.06-11.59.53:182][256]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Boomsatsuma\Downloads\scp-173\textures\173texture.jpg)
+[2020.02.06-11.59.53:227][256]LogTexture: Display: Building textures: 173texture (AutoDXT, 1024X1024)
+[2020.02.06-11.59.53:718][256]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/02D5D2E3409B18037D73DA8C504FBC1A79809D774BF2DD57683324A8C8208A3A.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/02D5D2E3409B18037D73DA8C504FBC1A.uasset'
+[2020.02.06-11.59.53:848][256]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Boomsatsuma\Downloads\scp-173\textures\173_Norm.jpg)
+[2020.02.06-11.59.53:923][256]LogTexture: Display: Building textures: 173_Norm (BC5, 1024X1024)
+[2020.02.06-11.59.54:176][256]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/428446A247AC8DC7F23B3986F7AD569A30D6423A4BE6D662A5687A842DF345EA.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/428446A247AC8DC7F23B3986F7AD569A.uasset'
+[2020.02.06-11.59.54:322][256]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Boomsatsuma\Downloads\scp-173\textures\173_Spec.jpg)
+[2020.02.06-11.59.54:363][256]LogTexture: Display: Building textures: 173_Spec (AutoDXT, 1024X1024)
+[2020.02.06-11.59.54:664][256]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/CE634DEA45DCED3EF381C49DACE54726F23905CB4B82C1A54E59A08E899CE2DC.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/CE634DEA45DCED3EF381C49DACE54726.uasset'
+[2020.02.06-11.59.54:774][257]LogConcert: Display: Synced activity '2883' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/173texture.
+[2020.02.06-11.59.54:797][257]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.06-11.59.54:797][257]LogContentValidation: Display: Validating Texture2D /Game/SCP/173texture.173texture
+[2020.02.06-11.59.54:797][257]LogContentValidation: Display: Validating Texture2D /Game/SCP/173_Norm.173_Norm
+[2020.02.06-11.59.54:797][257]LogContentValidation: Display: Validating Texture2D /Game/SCP/173_Spec.173_Spec
+[2020.02.06-11.59.55:340][259]LogConcert: Display: Synced activity '2884' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan added package /Game/SCP/173texture.
+[2020.02.06-11.59.55:341][259]LogConcert: Display: Synced activity '2885' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/173texture.
+[2020.02.06-11.59.55:341][259]LogConcert: Display: Synced activity '2886' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/173_Norm.
+[2020.02.06-11.59.55:927][261]LogConcert: Display: Synced activity '2887' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan added package /Game/SCP/173_Norm.
+[2020.02.06-11.59.55:927][261]LogConcert: Display: Synced activity '2888' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/173_Norm.
+[2020.02.06-11.59.55:927][261]LogConcert: Display: Synced activity '2889' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/173_Spec.
+[2020.02.06-11.59.55:983][261]LogConcert: Display: Synced activity '2890' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan added package /Game/SCP/173_Spec.
+[2020.02.06-11.59.55:984][261]LogConcert: Display: Synced activity '2891' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/173_Spec.
+[2020.02.06-11.59.59:417][489]LogConcert: Display: Synced activity '2892' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/Scene_RootMat.
+[2020.02.06-12.00.00:933][546]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/SCP/Scene_RootMat.Scene_RootMat
+[2020.02.06-12.00.00:937][546]LogMaterial: Display: Missing cached shader map for material Scene_RootMat, compiling. 
+[2020.02.06-12.00.01:030][546]LogMaterial: Display: Missing cached shader map for material Scene_RootMat, compiling. 
+[2020.02.06-12.00.01:041][546]LogMaterial: Display: Missing cached shader map for material Scene_RootMat, compiling. 
+[2020.02.06-12.00.01:055][546]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.06-12.00.01:055][546]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.06-12.00.01:055][546]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.06-12.00.01:055][546]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.06-12.00.01:061][546]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.02.06-12.00.02:144][568]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.06-12.00.02:806][585]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.06-12.00.02:834][586]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.02.06-12.00.02:856][587]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.02.06-12.00.03:292][605]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.06-12.00.03:359][608]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.06-12.00.03:578][617]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.06-12.00.03:623][619]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.06-12.00.03:951][627]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.02.06-12.00.03:953][627]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.02.06-12.00.03:953][627]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.02.06-12.00.03:953][627]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.06-12.00.03:953][627]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.06-12.00.05:074][659]LogMaterial: Display: Missing cached shader map for material Scene_RootMat, compiling. 
+[2020.02.06-12.00.05:120][660]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.06-12.00.05:120][660]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.06-12.00.05:120][660]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.06-12.00.05:120][660]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.06-12.00.06:142][684]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.06-12.00.06:634][685]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.06-12.00.06:634][685]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.06-12.00.06:634][685]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.06-12.00.06:634][685]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.02.06-12.00.07:735][725]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.02.06-12.00.07:735][725]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.02.06-12.00.07:735][725]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.06-12.00.07:735][725]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.06-12.00.12:106][891]LogMaterial: Display: Missing cached shader map for material Scene_RootMat, compiling. 
+[2020.02.06-12.00.12:118][891]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.06-12.00.12:129][891]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.06-12.00.12:129][891]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.06-12.00.12:129][891]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.06-12.00.12:129][891]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.06-12.00.12:136][891]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.06-12.00.12:153][891]LogMaterial: Display: Missing cached shader map for material Scene_RootMat, compiling. 
+[2020.02.06-12.00.12:168][891]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.02.06-12.00.12:188][891]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.06-12.00.12:198][891]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.02.06-12.00.12:953][907]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.02.06-12.00.13:708][923]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.02.06-12.00.13:708][923]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.02.06-12.00.13:780][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.02.06-12.00.14:264][934]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.02.06-12.00.14:334][936]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.02.06-12.00.14:648][950]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.06-12.00.14:672][951]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.02.06-12.00.14:823][956]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.02.06-12.00.14:823][956]LogMaterial: Display: Missing cached shader map for material Scene_RootMat, compiling. 
+[2020.02.06-12.00.14:842][956]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.02.06-12.00.14:863][956]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.06-12.00.14:882][956]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.02.06-12.00.14:906][956]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.02.06-12.00.15:088][958]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2020.02.06-12.00.15:641][971]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 20
+[2020.02.06-12.00.15:769][974]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.02.06-12.00.15:879][977]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2020.02.06-12.00.16:328][992]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.02.06-12.00.16:595][998]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2020.02.06-12.00.16:980][  9]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.02.06-12.00.17:055][ 12]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.02.06-12.00.17:234][ 20]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.02.06-12.00.17:451][ 29]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.02.06-12.00.18:025][ 43]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.06-12.00.18:052][ 44]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.02.06-12.00.18:148][ 48]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.06-12.00.18:315][ 53]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.02.06-12.00.18:340][ 54]MaterialEditorStats: Base pass shader: 117 instructions
+[2020.02.06-12.00.18:341][ 54]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.02.06-12.00.18:341][ 54]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.06-12.00.18:341][ 54]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.06-12.00.18:820][ 65]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.02.06-12.00.19:032][ 70]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.06-12.00.19:063][ 71]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.06-12.00.19:275][ 80]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.02.06-12.00.19:782][ 94]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.06-12.00.19:827][ 95]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.06-12.00.19:865][ 96]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.06-12.00.22:717][242]LogMaterial: Display: Missing cached shader map for material Scene_RootMat, compiling. 
+[2020.02.06-12.00.22:734][242]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.06-12.00.22:734][242]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.06-12.00.22:734][242]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.06-12.00.22:734][242]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.06-12.00.22:734][242]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.02.06-12.00.23:686][263]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.06-12.00.24:367][276]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.06-12.00.24:463][278]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.02.06-12.00.24:463][278]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.06-12.00.25:422][299]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.06-12.00.25:464][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.02.06-12.00.25:724][308]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.06-12.00.25:799][311]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.06-12.00.25:991][319]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.06-12.00.29:776][585]LogMaterial: Display: Missing cached shader map for material Scene_RootMat, compiling. 
+[2020.02.06-12.00.29:790][585]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.06-12.00.29:790][585]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.06-12.00.29:790][585]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.06-12.00.29:790][585]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.06-12.00.29:794][585]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.06-12.00.30:924][611]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.06-12.00.31:477][625]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.06-12.00.31:477][625]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.02.06-12.00.31:501][626]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.06-12.00.32:037][647]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.06-12.00.32:060][648]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.06-12.00.32:261][658]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.06-12.00.32:307][660]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.06-12.00.32:562][670]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.02.06-12.00.33:548][733]LogMaterial: Display: Missing cached shader map for material Scene_RootMat, compiling. 
+[2020.02.06-12.00.33:561][733]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.06-12.00.33:561][733]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.06-12.00.33:561][733]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.06-12.00.33:561][733]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.06-12.00.33:566][733]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.02.06-12.00.34:563][757]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.06-12.00.35:290][774]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.06-12.00.35:376][776]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.02.06-12.00.35:417][777]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.02.06-12.00.36:333][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.06-12.00.36:375][800]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.02.06-12.00.36:873][812]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.06-12.00.37:005][815]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.06-12.00.37:383][824]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.06-12.00.37:457][825]MaterialEditorStats: Base pass shader: 127 instructions
+[2020.02.06-12.00.37:457][825]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2020.02.06-12.00.37:457][825]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.06-12.00.37:457][825]MaterialEditorStats: Texture samplers: 5/16
+[2020.02.06-12.00.37:457][825]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.02.06-12.00.37:457][825]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-12.00.38:411][851]LogMaterialEditor: Saving and Compiling material Scene_RootMat
+[2020.02.06-12.00.38:779][851]LogMaterial: Display: Missing cached shader map for material Scene_RootMat, compiling. 
+[2020.02.06-12.00.38:816][851]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.06-12.00.38:816][851]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.06-12.00.38:817][851]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.06-12.00.38:817][851]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.06-12.00.38:829][851]LogMaterial: Display: Missing cached shader map for material Scene_RootMat, compiling. 
+[2020.02.06-12.00.38:882][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.02.06-12.00.38:902][851]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.06-12.00.39:982][851]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.02.06-12.00.39:982][851]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.02.06-12.00.39:982][851]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.02.06-12.00.39:982][851]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.02.06-12.00.39:982][851]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.02.06-12.00.39:982][851]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.02.06-12.00.39:982][851]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.02.06-12.00.39:982][851]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.02.06-12.00.39:982][851]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.06-12.00.39:982][851]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.02.06-12.00.39:982][851]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.02.06-12.00.39:985][851]TextureStreamingBuild: Display: Compiling optional shaders took 1.099 seconds.
+[2020.02.06-12.00.40:033][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.02.06-12.00.41:265][851]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.06-12.00.41:265][851]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.06-12.00.41:265][851]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.02.06-12.00.41:280][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Scene_RootMat" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Scene_RootMat.uasset" SILENT=true
+[2020.02.06-12.00.41:304][851]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Scene_RootMatB5F2A8CF4976DD106CD8B3BF67DEBF87.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Scene_RootMat.uasset'
+[2020.02.06-12.00.41:357][851]AssetCheck: New page: Asset Save: Scene_RootMat
+[2020.02.06-12.00.41:357][851]LogContentValidation: Display: Validating Material /Game/SCP/Scene_RootMat.Scene_RootMat
+[2020.02.06-12.00.41:361][851]MaterialEditorStats: Base pass shader: 127 instructions
+[2020.02.06-12.00.41:362][851]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2020.02.06-12.00.41:362][851]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.06-12.00.41:362][851]MaterialEditorStats: Texture samplers: 6/16
+[2020.02.06-12.00.41:362][851]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.02.06-12.00.41:362][851]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-12.00.41:378][852]LogConcert: Display: Synced activity '2893' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/Scene_RootMat.
+[2020.02.06-12.00.41:430][853]LogConcert: Display: Synced activity '2894' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan saved package /Game/SCP/Scene_RootMat.
+[2020.02.06-12.00.41:431][853]LogConcert: Display: Synced activity '2895' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/Scene_RootMat.
+[2020.02.06-12.00.50:544][203]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.02.06-12.00.50:568][203]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Level_155708FCA4922BA44CCC7889A24A9F0FF.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Levels/Level_1.umap'
+[2020.02.06-12.00.50:603][203]AssetCheck: New page: Asset Save: Level_1
+[2020.02.06-12.00.50:603][203]LogContentValidation: Display: Validating World /Game/SCP/Levels/Level_1.Level_1
+[2020.02.06-12.00.50:630][204]LogConcert: Display: Synced activity '2896' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan saved package /Game/SCP/Levels/Level_1.
+[2020.02.06-12.00.54:091][354]LogActorFactory: Actor Factory created 173_2_b3d__1_
+[2020.02.06-12.00.54:915][395]LogActorFactory: Actor Factory created 173_2_b3d__1_
+[2020.02.06-12.00.55:036][399]LogConcert: Display: Synced activity '2897' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan created 173_2_b3d__1__12 in /Game/SCP/Levels/Level_1.
+[2020.02.06-12.00.56:084][452]LogConcert: Display: Synced activity '2898' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked 173_2_b3d__1__12.StaticMeshComponent0 in /Game/SCP/Levels/Level_1, plus 1 other resource.
+[2020.02.06-12.00.58:362][567]LogConcert: Display: Synced activity '2899' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan modified 173_2_b3d__1__12.StaticMeshComponent0 in /Game/SCP/Levels/Level_1.
+[2020.02.06-12.00.58:362][567]LogConcert: Display: Synced activity '2900' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked 173_2_b3d__1__12.StaticMeshComponent0 in /Game/SCP/Levels/Level_1, plus 1 other resource.
+[2020.02.06-12.00.59:427][622]LogConcert: Display: Synced activity '2901' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked 173_2_b3d__1__12.StaticMeshComponent0 in /Game/SCP/Levels/Level_1, plus 1 other resource.
+[2020.02.06-12.01.03:090][808]LogConcert: Display: Synced activity '2902' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan modified 173_2_b3d__1__12.StaticMeshComponent0 in /Game/SCP/Levels/Level_1.
+[2020.02.06-12.01.03:091][808]LogConcert: Display: Synced activity '2903' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked 173_2_b3d__1__12.StaticMeshComponent0 in /Game/SCP/Levels/Level_1, plus 1 other resource.
+[2020.02.06-12.01.05:294][920]LogConcert: Display: Synced activity '2904' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked 173_2_b3d__1__12.StaticMeshComponent0 in /Game/SCP/Levels/Level_1, plus 1 other resource.
+[2020.02.06-12.01.07:485][ 31]LogConcert: Display: Synced activity '2905' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan modified 173_2_b3d__1__12.StaticMeshComponent0 in /Game/SCP/Levels/Level_1.
+[2020.02.06-12.01.07:486][ 31]LogConcert: Display: Synced activity '2906' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked 173_2_b3d__1__12.StaticMeshComponent0 in /Game/SCP/Levels/Level_1, plus 1 other resource.
+[2020.02.06-12.01.11:903][264]LogConcert: Display: Synced activity '2907' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked 173_2_b3d__1__12.StaticMeshComponent0 in /Game/SCP/Levels/Level_1, plus 1 other resource.
+[2020.02.06-12.01.13:602][352]LogConcert: Display: Synced activity '2908' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan modified 173_2_b3d__1__12.StaticMeshComponent0 in /Game/SCP/Levels/Level_1.
+[2020.02.06-12.01.13:603][352]LogConcert: Display: Synced activity '2909' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked 173_2_b3d__1__12.StaticMeshComponent0 in /Game/SCP/Levels/Level_1, plus 1 other resource.
+[2020.02.06-12.01.16:216][485]LogConcert: Display: Synced activity '2910' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked 173_2_b3d__1__12.StaticMeshComponent0 in /Game/SCP/Levels/Level_1, plus 1 other resource.
+[2020.02.06-12.01.17:339][541]LogConcert: Display: Synced activity '2911' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan modified 173_2_b3d__1__12.StaticMeshComponent0 in /Game/SCP/Levels/Level_1.
+[2020.02.06-12.01.17:340][541]LogConcert: Display: Synced activity '2912' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked 173_2_b3d__1__12.StaticMeshComponent0 in /Game/SCP/Levels/Level_1, plus 1 other resource.
+[2020.02.06-12.01.20:130][690]Cmd: TRANSACTION UNDO
+[2020.02.06-12.01.20:130][690]LogEditorTransaction: Undo Move Actors
+[2020.02.06-12.01.20:162][690]LogMaterial: Display: Missing cached shader map for material EyelashesMat, compiling. 
+[2020.02.06-12.01.20:179][690]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.06-12.01.20:179][690]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.06-12.01.20:179][690]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.06-12.01.20:179][690]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.06-12.01.20:184][690]LogMaterial: Display: Missing cached shader map for material Scene_RootMat, compiling. 
+[2020.02.06-12.01.20:337][693]LogConcert: Display: Synced activity '2913' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan modified 173_2_b3d__1__12.StaticMeshComponent0 in /Game/SCP/Levels/Level_1.
+[2020.02.06-12.01.20:554][698]Cmd: TRANSACTION UNDO
+[2020.02.06-12.01.20:554][698]LogEditorTransaction: Undo Move Actors
+[2020.02.06-12.01.20:567][698]LogMaterial: Display: Missing cached shader map for material EyelashesMat, compiling. 
+[2020.02.06-12.01.20:589][698]LogMaterial: Display: Missing cached shader map for material Scene_RootMat, compiling. 
+[2020.02.06-12.01.20:759][701]LogConcert: Display: Synced activity '2914' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan modified 173_2_b3d__1__12.StaticMeshComponent0 in /Game/SCP/Levels/Level_1.
+[2020.02.06-12.01.21:097][713]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.02.06-12.01.21:872][740]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.02.06-12.01.21:904][741]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.02.06-12.01.21:990][744]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.02.06-12.01.22:819][768]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2020.02.06-12.01.22:966][773]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.02.06-12.01.23:825][802]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.02.06-12.01.23:882][804]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.02.06-12.01.24:119][813]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2020.02.06-12.01.24:868][840]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.06-12.01.25:300][856]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.06-12.01.25:626][868]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.02.06-12.01.25:715][871]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.02.06-12.01.25:715][871]MaterialEditorStats: Base pass shader: 129 instructions
+[2020.02.06-12.01.25:716][871]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 203 instructions
+[2020.02.06-12.01.25:716][871]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.06-12.01.25:716][871]MaterialEditorStats: Texture samplers: 6/16
+[2020.02.06-12.01.25:716][871]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.02.06-12.01.25:716][871]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-12.01.26:693][906]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.06-12.01.26:720][907]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.02.06-12.01.27:279][928]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.02.06-12.01.27:547][938]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.02.06-12.01.27:800][948]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.06-12.01.29:179][  0]MaterialEditorStats: Base pass shader: 127 instructions
+[2020.02.06-12.01.29:179][  0]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2020.02.06-12.01.29:179][  0]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.02.06-12.01.29:179][  0]MaterialEditorStats: Texture samplers: 5/16
+[2020.02.06-12.01.29:179][  0]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.02.06-12.01.29:179][  0]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.06-12.01.40:894][659]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/SCPs/173_2_b3d__1_.uasset' error.
+[2020.02.06-12.01.40:924][659]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/173_2_b3d__1_2E669B1242921EF44761CE90F1245023.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/SCPs/173_2_b3d__1_.uasset'
+[2020.02.06-12.01.40:946][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/173_2_b3d__1_" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/173_2_b3d__1_.uasset" SILENT=true
+[2020.02.06-12.01.40:967][659]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/173_2_b3d__1_2635D3FC44105D42FB5418BAC872C797.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/173_2_b3d__1_.uasset'
+[2020.02.06-12.01.40:997][659]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.06-12.01.40:997][659]LogContentValidation: Display: Validating StaticMesh /Game/SCP/SCPs/173_2_b3d__1_.173_2_b3d__1_
+[2020.02.06-12.01.40:997][659]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/173_2_b3d__1_.173_2_b3d__1_
+[2020.02.06-12.01.41:016][660]LogConcert: Display: Synced activity '2915' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/173_2_b3d__1_.
+[2020.02.06-12.01.41:016][660]LogConcert: Display: Synced activity '2916' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/SCPs/173_2_b3d__1_.
+[2020.02.06-12.01.41:232][668]LogConcert: Display: Synced activity '2917' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan saved package /Game/SCP/SCPs/173_2_b3d__1_.
+[2020.02.06-12.01.41:232][668]LogConcert: Display: Synced activity '2918' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/SCPs/173_2_b3d__1_.
+[2020.02.06-12.01.41:236][668]LogConcert: Display: Synced activity '2919' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan renamed package /Game/SCP/173_2_b3d__1_ to /Game/SCP/SCPs/173_2_b3d__1_.
+[2020.02.06-12.01.41:237][668]LogConcert: Display: Synced activity '2920' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/173_2_b3d__1_.
+[2020.02.06-12.01.56:469][597]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Textures/173texture.uasset' error.
+[2020.02.06-12.01.56:501][597]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/173textureF85EE56E4289B1A2C1D9149CA540B50A.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Textures/173texture.uasset'
+[2020.02.06-12.01.56:632][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/173texture" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/173texture.uasset" SILENT=true
+[2020.02.06-12.01.56:660][597]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/173texture579324B44988D66D49F808A8C98C1AA7.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/173texture.uasset'
+[2020.02.06-12.01.56:671][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Textures/173_Norm" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Textures/173_Norm.uasset" SILENT=true
+[2020.02.06-12.01.56:674][597]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Textures/173_Norm.uasset' error.
+[2020.02.06-12.01.56:713][597]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/173_NormF58A8E8F4969A3E52D6365B64E5F0E21.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Textures/173_Norm.uasset'
+[2020.02.06-12.01.56:858][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/173_Norm" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/173_Norm.uasset" SILENT=true
+[2020.02.06-12.01.56:902][597]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/173_Norm75B292264C3555E7D41FBBB751DFA69B.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/173_Norm.uasset'
+[2020.02.06-12.01.56:910][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Textures/173_Spec" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Textures/173_Spec.uasset" SILENT=true
+[2020.02.06-12.01.56:912][597]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Textures/173_Spec.uasset' error.
+[2020.02.06-12.01.56:935][597]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/173_SpecFBD9C8E94B128B3E0BC123A3D4A06DE0.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Textures/173_Spec.uasset'
+[2020.02.06-12.01.56:986][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/173_Spec" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/173_Spec.uasset" SILENT=true
+[2020.02.06-12.01.57:035][597]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/173_Spec4EE2B796425BA044F13A7EB392F60C96.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/173_Spec.uasset'
+[2020.02.06-12.01.57:077][597]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.06-12.01.57:077][597]LogContentValidation: Display: Validating Texture2D /Game/SCP/Textures/173texture.173texture
+[2020.02.06-12.01.57:077][597]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/173texture.173texture
+[2020.02.06-12.01.57:077][597]LogContentValidation: Display: Validating Texture2D /Game/SCP/Textures/173_Norm.173_Norm
+[2020.02.06-12.01.57:077][597]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/173_Norm.173_Norm
+[2020.02.06-12.01.57:077][597]LogContentValidation: Display: Validating Texture2D /Game/SCP/Textures/173_Spec.173_Spec
+[2020.02.06-12.01.57:077][597]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/173_Spec.173_Spec
+[2020.02.06-12.01.57:130][598]LogConcert: Display: Synced activity '2921' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/173texture.
+[2020.02.06-12.01.57:131][598]LogConcert: Display: Synced activity '2922' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/Textures/173texture.
+[2020.02.06-12.01.57:131][598]LogConcert: Display: Synced activity '2923' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/Scene_RootMat.
+[2020.02.06-12.01.57:131][598]LogConcert: Display: Synced activity '2924' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/173_Norm.
+[2020.02.06-12.01.57:132][598]LogConcert: Display: Synced activity '2925' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/Textures/173_Norm.
+[2020.02.06-12.01.57:132][598]LogConcert: Display: Synced activity '2926' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/173_Spec.
+[2020.02.06-12.01.57:132][598]LogConcert: Display: Synced activity '2927' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/Textures/173_Spec.
+[2020.02.06-12.01.58:561][656]LogConcert: Display: Synced activity '2928' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan saved package /Game/SCP/Textures/173texture.
+[2020.02.06-12.01.58:562][656]LogConcert: Display: Synced activity '2929' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/Textures/173texture.
+[2020.02.06-12.01.58:566][656]LogConcert: Display: Synced activity '2930' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan renamed package /Game/SCP/173texture to /Game/SCP/Textures/173texture.
+[2020.02.06-12.01.58:567][656]LogConcert: Display: Synced activity '2931' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/173texture.
+[2020.02.06-12.01.58:932][671]LogConcert: Display: Synced activity '2932' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan saved package /Game/SCP/Textures/173_Norm.
+[2020.02.06-12.01.58:932][671]LogConcert: Display: Synced activity '2933' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/Textures/173_Norm.
+[2020.02.06-12.01.58:936][671]LogConcert: Display: Synced activity '2934' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan renamed package /Game/SCP/173_Norm to /Game/SCP/Textures/173_Norm.
+[2020.02.06-12.01.58:936][671]LogConcert: Display: Synced activity '2935' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/173_Norm.
+[2020.02.06-12.01.58:991][671]LogConcert: Display: Synced activity '2936' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan saved package /Game/SCP/Textures/173_Spec.
+[2020.02.06-12.01.58:992][671]LogConcert: Display: Synced activity '2937' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/Textures/173_Spec.
+[2020.02.06-12.01.58:996][671]LogConcert: Display: Synced activity '2938' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan renamed package /Game/SCP/173_Spec to /Game/SCP/Textures/173_Spec.
+[2020.02.06-12.01.58:996][671]LogConcert: Display: Synced activity '2939' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/173_Spec.
+[2020.02.06-12.02.00:886][855]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Scene_RootMat.uasset' error.
+[2020.02.06-12.02.00:901][855]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Scene_RootMatADECB5FC48CA3774DA99FD87C0222B19.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Scene_RootMat.uasset'
+[2020.02.06-12.02.00:911][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Scene_RootMat" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Scene_RootMat.uasset" SILENT=true
+[2020.02.06-12.02.00:929][855]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Scene_RootMatCC07E36C478B67A107B6ECB6026CCE0C.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Scene_RootMat.uasset'
+[2020.02.06-12.02.00:955][855]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.06-12.02.00:955][855]LogContentValidation: Display: Validating Material /Game/SCP/Materials/Scene_RootMat.Scene_RootMat
+[2020.02.06-12.02.00:955][855]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/Scene_RootMat.Scene_RootMat
+[2020.02.06-12.02.00:976][856]LogConcert: Display: Synced activity '2940' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/Materials/Scene_RootMat.
+[2020.02.06-12.02.01:054][858]LogConcert: Display: Synced activity '2941' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan saved package /Game/SCP/Materials/Scene_RootMat.
+[2020.02.06-12.02.01:054][858]LogConcert: Display: Synced activity '2942' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/Materials/Scene_RootMat.
+[2020.02.06-12.02.01:059][858]LogConcert: Display: Synced activity '2943' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan renamed package /Game/SCP/Scene_RootMat to /Game/SCP/Materials/Scene_RootMat.
+[2020.02.06-12.02.01:059][858]LogConcert: Display: Synced activity '2944' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/Scene_RootMat.
+[2020.02.06-12.02.17:672][825]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Textures/SCP-173/173texture.uasset' error.
+[2020.02.06-12.02.17:704][825]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/173texture1AF813004C65751C8FE329BB15AA5057.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Textures/SCP-173/173texture.uasset'
+[2020.02.06-12.02.17:848][825]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/173texture70F73C384CDBE44A02C9608F9D57187A.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Textures/173texture.uasset'
+[2020.02.06-12.02.17:860][825]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Textures/SCP-173/173_Norm.uasset' error.
+[2020.02.06-12.02.17:907][825]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/173_NormA0A803934131C3F97B06D0A0B073EDAA.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Textures/SCP-173/173_Norm.uasset'
+[2020.02.06-12.02.18:050][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Textures/173_Norm" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Textures/173_Norm.uasset" SILENT=true
+[2020.02.06-12.02.18:086][825]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/173_NormAF651B4A4F4D1E76996CCD9870ABDBCD.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Textures/173_Norm.uasset'
+[2020.02.06-12.02.18:102][825]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Textures/SCP-173/173_Spec.uasset' error.
+[2020.02.06-12.02.18:124][825]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/173_Spec9AAD35AD4B65BCAA4EE2CC9039373CE8.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Textures/SCP-173/173_Spec.uasset'
+[2020.02.06-12.02.18:175][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Textures/173_Spec" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Textures/173_Spec.uasset" SILENT=true
+[2020.02.06-12.02.18:201][825]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/173_SpecE0A6530D49380C0BE48828A772B80A95.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Textures/173_Spec.uasset'
+[2020.02.06-12.02.18:260][825]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.06-12.02.18:260][825]LogContentValidation: Display: Validating Texture2D /Game/SCP/Textures/SCP-173/173texture.173texture
+[2020.02.06-12.02.18:260][825]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/Textures/173texture.173texture
+[2020.02.06-12.02.18:260][825]LogContentValidation: Display: Validating Texture2D /Game/SCP/Textures/SCP-173/173_Norm.173_Norm
+[2020.02.06-12.02.18:260][825]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/Textures/173_Norm.173_Norm
+[2020.02.06-12.02.18:260][825]LogContentValidation: Display: Validating Texture2D /Game/SCP/Textures/SCP-173/173_Spec.173_Spec
+[2020.02.06-12.02.18:260][825]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/Textures/173_Spec.173_Spec
+[2020.02.06-12.02.18:299][826]LogConcert: Display: Synced activity '2945' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/Textures/173texture.
+[2020.02.06-12.02.18:300][826]LogConcert: Display: Synced activity '2946' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/Textures/SCP-173/173texture.
+[2020.02.06-12.02.18:300][826]LogConcert: Display: Synced activity '2947' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/Materials/Scene_RootMat.
+[2020.02.06-12.02.18:300][826]LogConcert: Display: Synced activity '2948' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/Textures/173_Norm.
+[2020.02.06-12.02.18:300][826]LogConcert: Display: Synced activity '2949' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/Textures/SCP-173/173_Norm.
+[2020.02.06-12.02.18:301][826]LogConcert: Display: Synced activity '2950' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/Textures/173_Spec.
+[2020.02.06-12.02.18:301][826]LogConcert: Display: Synced activity '2951' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/Textures/SCP-173/173_Spec.
+[2020.02.06-12.02.20:012][893]LogConcert: Display: Synced activity '2952' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan saved package /Game/SCP/Textures/SCP-173/173texture.
+[2020.02.06-12.02.20:012][893]LogConcert: Display: Synced activity '2953' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/Textures/SCP-173/173texture.
+[2020.02.06-12.02.20:019][893]LogConcert: Display: Synced activity '2954' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan renamed package /Game/SCP/Textures/173texture to /Game/SCP/Textures/SCP-173/173texture.
+[2020.02.06-12.02.20:020][893]LogConcert: Display: Synced activity '2955' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/Textures/173texture.
+[2020.02.06-12.02.20:606][914]LogConcert: Display: Synced activity '2956' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan saved package /Game/SCP/Textures/SCP-173/173_Norm.
+[2020.02.06-12.02.20:606][914]LogConcert: Display: Synced activity '2957' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/Textures/SCP-173/173_Norm.
+[2020.02.06-12.02.20:610][914]LogConcert: Display: Synced activity '2958' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan renamed package /Game/SCP/Textures/173_Norm to /Game/SCP/Textures/SCP-173/173_Norm.
+[2020.02.06-12.02.20:610][914]LogConcert: Display: Synced activity '2959' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/Textures/173_Norm.
+[2020.02.06-12.02.20:666][914]LogConcert: Display: Synced activity '2960' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan saved package /Game/SCP/Textures/SCP-173/173_Spec.
+[2020.02.06-12.02.20:666][914]LogConcert: Display: Synced activity '2961' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/Textures/SCP-173/173_Spec.
+[2020.02.06-12.02.20:671][914]LogConcert: Display: Synced activity '2962' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan renamed package /Game/SCP/Textures/173_Spec to /Game/SCP/Textures/SCP-173/173_Spec.
+[2020.02.06-12.02.20:671][914]LogConcert: Display: Synced activity '2963' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/Textures/173_Spec.
+[2020.02.06-12.02.30:931][521]LogConcert: Display: Synced activity '2964' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/Materials/Scene_RootMat.
+[2020.02.06-12.02.33:864][699]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/D-Class/Scene_RootMat.uasset' error.
+[2020.02.06-12.02.33:878][699]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Scene_RootMat93DFF6194F54B0D2B9C9B68F5A1D9616.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/D-Class/Scene_RootMat.uasset'
+[2020.02.06-12.02.33:906][699]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Scene_RootMatB36B480B47853288903477BE5BAFE45D.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Scene_RootMat.uasset'
+[2020.02.06-12.02.33:936][699]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.06-12.02.33:936][699]LogContentValidation: Display: Validating Material /Game/SCP/Materials/D-Class/Scene_RootMat.Scene_RootMat
+[2020.02.06-12.02.33:936][699]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/Materials/Scene_RootMat.Scene_RootMat
+[2020.02.06-12.02.33:958][700]LogConcert: Display: Synced activity '2965' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/Materials/Scene_RootMat.
+[2020.02.06-12.02.33:960][700]LogConcert: Display: Synced activity '2966' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan locked /Game/SCP/Materials/D-Class/Scene_RootMat.
+[2020.02.06-12.02.34:006][701]LogConcert: Display: Synced activity '2967' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan saved package /Game/SCP/Materials/D-Class/Scene_RootMat.
+[2020.02.06-12.02.34:006][701]LogConcert: Display: Synced activity '2968' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/Materials/D-Class/Scene_RootMat.
+[2020.02.06-12.02.34:013][701]LogConcert: Display: Synced activity '2969' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan renamed package /Game/SCP/Materials/Scene_RootMat to /Game/SCP/Materials/D-Class/Scene_RootMat.
+[2020.02.06-12.02.34:014][701]LogConcert: Display: Synced activity '2970' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan unlocked /Game/SCP/Materials/Scene_RootMat.
+[2020.02.06-12.02.35:333][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.02.06-12.02.35:365][770]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Level_11380419B45A3A373C7310BA3303A8010.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Levels/Level_1.umap'
+[2020.02.06-12.02.35:401][770]AssetCheck: New page: Asset Save: Level_1
+[2020.02.06-12.02.35:401][770]LogContentValidation: Display: Validating World /Game/SCP/Levels/Level_1.Level_1
+[2020.02.06-12.02.35:425][771]LogConcert: Display: Synced activity '2971' produced by endpoint '9625F8164ABB7835D088D180AA36A400': Dylan saved package /Game/SCP/Levels/Level_1.
