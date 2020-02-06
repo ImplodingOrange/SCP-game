@@ -1625,3 +1625,8 @@ Please see Output Log for details.
 [2020.02.06-09.42.06:485][247]LogConcert: Display: Synced activity '567' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan modified 3DoorRoom_2.StaticMeshComponent0 in /Game/SCP/Levels/Level_1.
 [2020.02.06-09.42.07:858][311]LogConcert: Display: Synced activity '568' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan modified 3DoorRoom_2.StaticMeshComponent0 in /Game/SCP/Levels/Level_1.
 [2020.02.06-09.42.07:890][312]LogEditorViewport: Clicking Background
+[2020.02.06-09.43.12:883][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.02.06-09.43.12:895][682]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Level_1144C55C24BE8C92C2DD002B840F7FE2B.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Levels/Level_1.umap'
+[2020.02.06-09.43.12:929][682]AssetCheck: New page: Asset Save: Level_1
+[2020.02.06-09.43.12:930][682]LogContentValidation: Display: Validating World /Game/SCP/Levels/Level_1.Level_1
+[2020.02.06-09.43.12:953][683]LogConcert: Display: Synced activity '569' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan saved package /Game/SCP/Levels/Level_1.
