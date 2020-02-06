@@ -635,3 +635,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.06-09.05.03:381][161]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Level_12522548C47F304344E3B6A82BA7DD184.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/Levels/Level_1.umap'
 [2020.02.06-09.05.03:411][161]AssetCheck: New page: Asset Save: Level_1
 [2020.02.06-09.05.03:411][161]LogContentValidation: Display: Validating World /Game/Levels/Level_1.Level_1
+[2020.02.06-09.06.37:244][605]LogConcert: [Pending] Launching Unreal Multi-User Server...
+[2020.02.06-09.06.37:254][605]LogConcert: [Success] Launched Unreal Multi-User Server
+[2020.02.06-09.06.39:408][665]LogConcert: Display: Admin (35DCE6E54EBA5A8726D173B7F9572C18): Remote endpoint 'BB3547394382F3B56B8B45ABCE904806' discovered.
+[2020.02.06-09.06.39:418][666]LogConcert: Display: Server DESKTOP-10OBL1P discovered.
+[2020.02.06-09.06.40:754][669]LogSlate: Took 0.005638 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.06-09.20.51:427][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.02.06-09.20.51:440][707]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Level_16A1E92674F9A54703D8DE19B6F64596F.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/Levels/Level_1.umap'
+[2020.02.06-09.20.51:470][707]AssetCheck: New page: Asset Save: Level_1
+[2020.02.06-09.20.51:470][707]LogContentValidation: Display: Validating World /Game/Levels/Level_1.Level_1
