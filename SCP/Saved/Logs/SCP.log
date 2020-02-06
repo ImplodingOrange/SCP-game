@@ -644,3 +644,984 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.06-09.20.51:440][707]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Level_16A1E92674F9A54703D8DE19B6F64596F.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/Levels/Level_1.umap'
 [2020.02.06-09.20.51:470][707]AssetCheck: New page: Asset Save: Level_1
 [2020.02.06-09.20.51:470][707]LogContentValidation: Display: Validating World /Game/Levels/Level_1.Level_1
+[2020.02.06-09.22.31:496][189]LogConcert: [Pending] Joining Session...
+[2020.02.06-09.22.31:496][189]LogConcert: [Pending] Joining Session... - Validating Workspace...
+[2020.02.06-09.22.31:735][191]LogConcert: [Pending] Joining Session... - Attempting Remote Connection...
+[2020.02.06-09.22.31:799][192]SourceControl: Source control is disabled
+[2020.02.06-09.22.31:799][192]SourceControl: Source control is disabled
+[2020.02.06-09.22.32:143][192]LogConcert: Display: Initialized Concert session 'SCP' (Id: 9145CF0F430B1149FAC53299AFE8B55D, Owner: Boomsatsuma).
+[2020.02.06-09.22.32:144][192]LogConcert: Display: Connecting to Concert session 'SCP' (Id: 9145CF0F430B1149FAC53299AFE8B55D, Owner: Boomsatsuma).
+[2020.02.06-09.22.32:151][192]LogConcert: Display: SCP (97B8E9AB43EE2FD22B5A32912C0F04D6): Remote endpoint '1EB7E00644B944CD5B9DC68468B68A23' discovered.
+[2020.02.06-09.22.32:221][193]LogConcert: Display: Connected to Concert session 'SCP' (Id: 9145CF0F430B1149FAC53299AFE8B55D, Owner: Boomsatsuma).
+[2020.02.06-09.22.32:221][193]LogConcert: [Success] Joined Session 'SCP'
+[2020.02.06-09.22.32:259][195]LogConcert: Display: Synced activity '1' produced by endpoint '5D509191439271B5F5CE798DF4931F5D': Boomsatsuma joined the session.
+[2020.02.06-09.22.32:260][195]LogConcert: Display: Synced activity '2' produced by endpoint '32548CFD4841D2B28C8288B6792C0F24': Boomsatsuma joined the session.
+[2020.02.06-09.22.32:260][195]LogConcert: Display: Synced activity '3' produced by endpoint '5D509191439271B5F5CE798DF4931F5D': Boomsatsuma left the session.
+[2020.02.06-09.22.32:261][195]LogConcert: Display: Synced activity '4' produced by endpoint '32548CFD4841D2B28C8288B6792C0F24': Boomsatsuma left the session.
+[2020.02.06-09.22.32:261][195]LogConcert: Display: Synced activity '5' produced by endpoint '0FF26C8B4F2FE1867AE0C48F843C221F': Boomsatsuma joined the session.
+[2020.02.06-09.22.32:261][195]LogConcert: Display: Synced activity '6' produced by endpoint '620629C643822DA55F3D70828C65453D': User joined the session.
+[2020.02.06-09.22.32:268][195]LogConcert: Display: Synced activity '7' produced by endpoint '620629C643822DA55F3D70828C65453D': User discarded changes to package /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.
+[2020.02.06-09.22.32:270][195]LogConcert: Display: Synced activity '8' produced by endpoint '620629C643822DA55F3D70828C65453D': User discarded changes to package /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.
+[2020.02.06-09.22.32:272][195]LogConcert: Display: Synced activity '9' produced by endpoint '620629C643822DA55F3D70828C65453D': User discarded changes to package /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.
+[2020.02.06-09.22.32:272][195]LogConcert: Display: Synced activity '10' produced by endpoint '620629C643822DA55F3D70828C65453D': User left the session.
+[2020.02.06-09.22.32:272][195]LogConcert: Display: Synced activity '11' produced by endpoint '53A42C1B4157C88456B72D89F31F8D66': Boomsatsuma joined the session.
+[2020.02.06-09.22.32:272][195]LogConcert: Display: Synced activity '12' produced by endpoint 'BF1056E44E06751701D31BA9338F8AB3': Boom1 joined the session.
+[2020.02.06-09.22.32:273][195]LogConcert: Display: Synced activity '13' produced by endpoint '53A42C1B4157C88456B72D89F31F8D66': Boomsatsuma left the session.
+[2020.02.06-09.22.32:273][195]LogConcert: Display: Synced activity '14' produced by endpoint 'BD4D1F534B868D026A7ACA954CA0544B': Dylan joined the session.
+[2020.02.06-09.22.32:273][195]LogConcert: Display: Synced activity '15' produced by endpoint 'BD4D1F534B868D026A7ACA954CA0544B': Dylan left the session.
+[2020.02.06-09.22.32:280][196]LogConcert: Display: Synced activity '16' produced by endpoint 'BF6B5DF7479697FDAF1403A69669EBC8': Boom1 joined the session.
+[2020.02.06-09.22.32:283][196]LogConcert: Display: Synced activity '17' produced by endpoint '9AF42AF7470DE2C5AD677D9E3ECA5B36': GamerBen joined the session.
+[2020.02.06-09.22.32:286][196]LogConcert: Display: Synced activity '18' produced by endpoint '66D214F54BDB99130C6DBFB685D58803': Dylan joined the session.
+[2020.02.06-09.22.32:288][196]LogConcert: Display: Synced activity '19' produced by endpoint 'CC7DD6D64AE716EE516394A5BE7A80EF': User1 joined the session.
+[2020.02.06-09.22.32:291][196]LogConcert: Display: Synced activity '20' produced by endpoint '9AF42AF7470DE2C5AD677D9E3ECA5B36': GamerBen locked /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.
+[2020.02.06-09.22.32:299][196]LogConcert: Display: Synced activity '21' produced by endpoint '9AF42AF7470DE2C5AD677D9E3ECA5B36': GamerBen saved package /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:305][196]LogConcert: Display: Synced activity '22' produced by endpoint '9AF42AF7470DE2C5AD677D9E3ECA5B36': GamerBen saved package /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.
+[2020.02.06-09.22.32:306][196]LogConcert: Display: Synced activity '23' produced by endpoint '9AF42AF7470DE2C5AD677D9E3ECA5B36': GamerBen unlocked /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.
+[2020.02.06-09.22.32:306][196]LogConcert: Display: Synced activity '24' produced by endpoint '9AF42AF7470DE2C5AD677D9E3ECA5B36': GamerBen left the session.
+[2020.02.06-09.22.32:306][196]LogConcert: Display: Synced activity '25' produced by endpoint '66D214F54BDB99130C6DBFB685D58803': Dylan left the session.
+[2020.02.06-09.22.32:306][196]LogConcert: Display: Synced activity '26' produced by endpoint '218BB9A849DAD28933241A9FCECD3B17': samrh joined the session.
+[2020.02.06-09.22.32:306][196]LogConcert: Display: Synced activity '27' produced by endpoint '218BB9A849DAD28933241A9FCECD3B17': samrh left the session.
+[2020.02.06-09.22.32:306][196]LogConcert: Display: Synced activity '28' produced by endpoint 'CC7DD6D64AE716EE516394A5BE7A80EF': User1 left the session.
+[2020.02.06-09.22.32:307][196]LogConcert: Display: Synced activity '29' produced by endpoint 'DBD46D07428997C359470C95F7CD6755': Dylan joined the session.
+[2020.02.06-09.22.32:307][196]LogConcert: Display: Synced activity '30' produced by endpoint 'C345CEEA41BE1CDC439F2B9CD299DA43': GamerBen joined the session.
+[2020.02.06-09.22.32:312][196]LogConcert: Display: Synced activity '31' produced by endpoint 'C345CEEA41BE1CDC439F2B9CD299DA43': GamerBen modified EditorCube8_2.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:313][196]LogConcert: Display: Synced activity '32' produced by endpoint 'C345CEEA41BE1CDC439F2B9CD299DA43': GamerBen created EditorCube22 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:315][196]LogConcert: Display: Synced activity '33' produced by endpoint 'C345CEEA41BE1CDC439F2B9CD299DA43': GamerBen modified EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:316][196]LogConcert: Display: Synced activity '34' produced by endpoint 'C345CEEA41BE1CDC439F2B9CD299DA43': GamerBen modified EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:318][196]LogConcert: Display: Synced activity '35' produced by endpoint 'C345CEEA41BE1CDC439F2B9CD299DA43': GamerBen modified EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:318][196]LogConcert: Display: Synced activity '36' produced by endpoint 'C345CEEA41BE1CDC439F2B9CD299DA43': GamerBen locked EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:318][196]LogConcert: Display: Synced activity '37' produced by endpoint 'EE4DC2C14D888F75D76664B4E53D1B72': samrh joined the session.
+[2020.02.06-09.22.32:319][196]LogConcert: Display: Synced activity '38' produced by endpoint 'C345CEEA41BE1CDC439F2B9CD299DA43': GamerBen modified EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:320][196]LogConcert: Display: Synced activity '39' produced by endpoint 'C345CEEA41BE1CDC439F2B9CD299DA43': GamerBen unlocked EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:321][196]LogConcert: Display: Synced activity '40' produced by endpoint 'C345CEEA41BE1CDC439F2B9CD299DA43': GamerBen modified EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:322][196]LogConcert: Display: Synced activity '41' produced by endpoint 'C345CEEA41BE1CDC439F2B9CD299DA43': GamerBen locked EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:323][196]LogConcert: Display: Synced activity '42' produced by endpoint 'C345CEEA41BE1CDC439F2B9CD299DA43': GamerBen modified EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:324][196]LogConcert: Display: Synced activity '43' produced by endpoint 'C345CEEA41BE1CDC439F2B9CD299DA43': GamerBen unlocked EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:325][196]LogConcert: Display: Synced activity '44' produced by endpoint 'C345CEEA41BE1CDC439F2B9CD299DA43': GamerBen modified EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:325][196]LogConcert: Display: Synced activity '45' produced by endpoint 'C345CEEA41BE1CDC439F2B9CD299DA43': GamerBen locked EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:327][196]LogConcert: Display: Synced activity '46' produced by endpoint 'C345CEEA41BE1CDC439F2B9CD299DA43': GamerBen modified EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:327][196]LogConcert: Display: Synced activity '47' produced by endpoint 'C345CEEA41BE1CDC439F2B9CD299DA43': GamerBen unlocked EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:328][196]LogConcert: Display: Synced activity '48' produced by endpoint 'C345CEEA41BE1CDC439F2B9CD299DA43': GamerBen modified EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:328][196]LogConcert: Display: Synced activity '49' produced by endpoint 'C345CEEA41BE1CDC439F2B9CD299DA43': GamerBen left the session.
+[2020.02.06-09.22.32:329][196]LogConcert: Display: Synced activity '50' produced by endpoint 'EE4DC2C14D888F75D76664B4E53D1B72': samrh left the session.
+[2020.02.06-09.22.32:330][196]LogConcert: Display: Synced activity '51' produced by endpoint 'DBD46D07428997C359470C95F7CD6755': Dylan modified EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:331][196]LogConcert: Display: Synced activity '52' produced by endpoint '5E1B01F445577237E2D68B85FB9822C1': User1 joined the session.
+[2020.02.06-09.22.32:331][196]LogConcert: Display: Synced activity '53' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen joined the session.
+[2020.02.06-09.22.32:331][196]LogConcert: Display: Synced activity '54' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh joined the session.
+[2020.02.06-09.22.32:332][196]LogConcert: Display: Synced activity '55' produced by endpoint '5E1B01F445577237E2D68B85FB9822C1': User1 created BP_Centaur_SetUp in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:333][196]LogConcert: Display: Synced activity '56' produced by endpoint '5E1B01F445577237E2D68B85FB9822C1': User1 locked BP_Centaur_SetUp.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:334][196]LogConcert: Display: Synced activity '57' produced by endpoint '5E1B01F445577237E2D68B85FB9822C1': User1 modified BP_Centaur_SetUp.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:334][196]LogConcert: Display: Synced activity '58' produced by endpoint '5E1B01F445577237E2D68B85FB9822C1': User1 unlocked BP_Centaur_SetUp.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:336][196]LogConcert: Display: Synced activity '59' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen created EditorCube23 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:336][196]LogConcert: Display: Synced activity '60' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked EditorCube23.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:337][196]LogConcert: Display: Synced activity '61' produced by endpoint '5E1B01F445577237E2D68B85FB9822C1': User1 locked BP_Centaur_SetUp.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:338][196]LogConcert: Display: Synced activity '62' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified EditorCube23.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:338][196]LogConcert: Display: Synced activity '63' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked EditorCube23.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:340][196]LogConcert: Display: Synced activity '64' produced by endpoint '5E1B01F445577237E2D68B85FB9822C1': User1 modified BP_Centaur_SetUp.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:340][196]LogConcert: Display: Synced activity '65' produced by endpoint '5E1B01F445577237E2D68B85FB9822C1': User1 unlocked BP_Centaur_SetUp.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:340][196]LogConcert: Display: Synced activity '66' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked EditorCube23.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:342][196]LogConcert: Display: Synced activity '67' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified EditorCube23.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:342][196]LogConcert: Display: Synced activity '68' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked EditorCube23.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:343][196]LogConcert: Display: Synced activity '69' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified EditorCube23.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:344][196]LogConcert: Display: Synced activity '70' produced by endpoint 'DBD46D07428997C359470C95F7CD6755': Dylan left the session.
+[2020.02.06-09.22.32:344][196]LogConcert: Display: Synced activity '71' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked EditorCube23.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:346][196]LogConcert: Display: Synced activity '72' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified EditorCube23.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:346][196]LogConcert: Display: Synced activity '73' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked EditorCube23.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:346][196]LogConcert: Display: Synced activity '74' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked EditorCube23.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:348][196]LogConcert: Display: Synced activity '75' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified EditorCube23.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:348][196]LogConcert: Display: Synced activity '76' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked EditorCube23.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:350][196]LogConcert: Display: Synced activity '77' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen created EditorCube24 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:350][196]LogConcert: Display: Synced activity '78' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:351][196]LogConcert: Display: Synced activity '79' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:352][196]LogConcert: Display: Synced activity '80' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:352][196]LogConcert: Display: Synced activity '81' produced by endpoint '15DF218049B09C2ADAA41AAABDC87673': Dylan joined the session.
+[2020.02.06-09.22.32:352][196]LogConcert: Display: Synced activity '82' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:353][196]LogConcert: Display: Synced activity '83' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:353][196]LogConcert: Display: Synced activity '84' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:354][196]LogConcert: Display: Synced activity '85' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:355][196]LogConcert: Display: Synced activity '86' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:355][196]LogConcert: Display: Synced activity '87' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:355][196]LogConcert: Display: Synced activity '88' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:357][196]LogConcert: Display: Synced activity '89' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:357][196]LogConcert: Display: Synced activity '90' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:361][196]LogConcert: Display: Synced activity '91' produced by endpoint '5E1B01F445577237E2D68B85FB9822C1': User1 discarded changes to package /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.
+[2020.02.06-09.22.32:361][196]LogConcert: Display: Synced activity '92' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:362][196]LogConcert: Display: Synced activity '93' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:363][196]LogConcert: Display: Synced activity '94' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:363][196]LogConcert: Display: Synced activity '95' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:380][197]LogConcert: Display: Synced activity '96' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:381][197]LogConcert: Display: Synced activity '97' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:383][197]LogConcert: Display: Synced activity '98' produced by endpoint '5E1B01F445577237E2D68B85FB9822C1': User1 deleted BP_Centaur_SetUp in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:383][197]LogConcert: Display: Synced activity '99' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:384][197]LogConcert: Display: Synced activity '100' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:384][197]LogConcert: Display: Synced activity '101' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:385][197]LogConcert: Display: Synced activity '102' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:386][197]LogConcert: Display: Synced activity '103' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:386][197]LogConcert: Display: Synced activity '104' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:387][197]LogConcert: Display: Synced activity '105' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:388][197]LogConcert: Display: Synced activity '106' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:388][197]LogConcert: Display: Synced activity '107' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:389][197]LogConcert: Display: Synced activity '108' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:390][197]LogConcert: Display: Synced activity '109' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:390][197]LogConcert: Display: Synced activity '110' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:390][197]LogConcert: Display: Synced activity '111' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:391][197]LogConcert: Display: Synced activity '112' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:392][197]LogConcert: Display: Synced activity '113' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:392][197]LogConcert: Display: Synced activity '114' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked EditorCube23.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:393][197]LogConcert: Display: Synced activity '115' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified EditorCube23.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:393][197]LogConcert: Display: Synced activity '116' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked EditorCube23.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:394][197]LogConcert: Display: Synced activity '117' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:395][197]LogConcert: Display: Synced activity '118' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:395][197]LogConcert: Display: Synced activity '119' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:395][197]LogConcert: Display: Synced activity '120' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked StaticMeshActor_0.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:396][197]LogConcert: Display: Synced activity '121' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked 1M_Cube.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:396][197]LogConcert: Display: Synced activity '122' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked EditorCube24.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 5 other resources.
+[2020.02.06-09.22.32:397][197]LogConcert: Display: Synced activity '123' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 2 other actions.
+[2020.02.06-09.22.32:398][197]LogConcert: Display: Synced activity '124' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 5 other resources.
+[2020.02.06-09.22.32:400][197]LogConcert: Display: Synced activity '125' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh created 1M_Cube in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:401][197]LogConcert: Display: Synced activity '126' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked StaticMeshActor_0.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:401][197]LogConcert: Display: Synced activity '127' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked 1M_Cube in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:402][197]LogConcert: Display: Synced activity '128' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified 1M_Cube.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:402][197]LogConcert: Display: Synced activity '129' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked 1M_Cube.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:402][197]LogConcert: Display: Synced activity '130' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked 1M_Cube.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:404][197]LogConcert: Display: Synced activity '131' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified 1M_Cube.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:404][197]LogConcert: Display: Synced activity '132' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked 1M_Cube.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:405][197]LogConcert: Display: Synced activity '133' produced by endpoint '5E1B01F445577237E2D68B85FB9822C1': User1 created BP_BARGHEST_OptionsSetUp in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:406][197]LogConcert: Display: Synced activity '134' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked 1M_Cube.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:407][197]LogConcert: Display: Synced activity '135' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified 1M_Cube.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:407][197]LogConcert: Display: Synced activity '136' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked 1M_Cube.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:407][197]LogConcert: Display: Synced activity '137' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked 1M_Cube.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:408][197]LogConcert: Display: Synced activity '138' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen created Sphere_4 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:410][197]LogConcert: Display: Synced activity '139' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified 1M_Cube.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:410][197]LogConcert: Display: Synced activity '140' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked 1M_Cube.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:410][197]LogConcert: Display: Synced activity '141' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:411][197]LogConcert: Display: Synced activity '142' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked 1M_Cube.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:412][197]LogConcert: Display: Synced activity '143' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:412][197]LogConcert: Display: Synced activity '144' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:412][197]LogConcert: Display: Synced activity '145' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:414][197]LogConcert: Display: Synced activity '146' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:414][197]LogConcert: Display: Synced activity '147' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:415][197]LogConcert: Display: Synced activity '148' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:416][197]LogConcert: Display: Synced activity '149' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:417][197]LogConcert: Display: Synced activity '150' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified 1M_Cube.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:417][197]LogConcert: Display: Synced activity '151' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked 1M_Cube.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:419][197]LogConcert: Display: Synced activity '152' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:419][197]LogConcert: Display: Synced activity '153' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:420][197]LogConcert: Display: Synced activity '154' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:421][197]LogConcert: Display: Synced activity '155' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:422][197]LogConcert: Display: Synced activity '156' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:423][197]LogConcert: Display: Synced activity '157' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked SkeletalMeshActor_0.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:423][197]LogConcert: Display: Synced activity '158' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:425][197]LogConcert: Display: Synced activity '159' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh created FirstPerson_AnimBP in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:425][197]LogConcert: Display: Synced activity '160' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked SkeletalMeshActor_0.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:425][197]LogConcert: Display: Synced activity '161' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:426][197]LogConcert: Display: Synced activity '162' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked FirstPerson_AnimBP in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:427][197]LogConcert: Display: Synced activity '163' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:427][197]LogConcert: Display: Synced activity '164' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:428][197]LogConcert: Display: Synced activity '165' produced by endpoint '5E1B01F445577237E2D68B85FB9822C1': User1 locked BP_BARGHEST_OptionsSetUp.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:429][197]LogConcert: Display: Synced activity '166' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:429][197]LogConcert: Display: Synced activity '167' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:429][197]LogConcert: Display: Synced activity '168' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:430][197]LogConcert: Display: Synced activity '169' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:431][197]LogConcert: Display: Synced activity '170' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:431][197]LogConcert: Display: Synced activity '171' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:432][197]LogConcert: Display: Synced activity '172' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:434][197]LogConcert: Display: Synced activity '173' produced by endpoint '5E1B01F445577237E2D68B85FB9822C1': User1 modified BP_BARGHEST_OptionsSetUp.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:434][197]LogConcert: Display: Synced activity '174' produced by endpoint '5E1B01F445577237E2D68B85FB9822C1': User1 unlocked BP_BARGHEST_OptionsSetUp.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:435][197]LogConcert: Display: Synced activity '175' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:435][197]LogConcert: Display: Synced activity '176' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:437][197]LogConcert: Display: Synced activity '177' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:437][197]LogConcert: Display: Synced activity '178' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:437][197]LogConcert: Display: Synced activity '179' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:439][197]LogConcert: Display: Synced activity '180' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:439][197]LogConcert: Display: Synced activity '181' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:439][197]LogConcert: Display: Synced activity '182' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:439][197]LogConcert: Display: Synced activity '183' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:440][197]LogConcert: Display: Synced activity '184' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:455][197]LogConcert: Display: Synced activity '185' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:456][197]LogConcert: Display: Synced activity '186' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:457][197]LogConcert: Display: Synced activity '187' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:457][197]LogConcert: Display: Synced activity '188' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:458][197]LogConcert: Display: Synced activity '189' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:459][197]LogConcert: Display: Synced activity '190' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:459][197]LogConcert: Display: Synced activity '191' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:460][197]LogConcert: Display: Synced activity '192' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:460][197]LogConcert: Display: Synced activity '193' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere_4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:461][197]LogConcert: Display: Synced activity '194' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen created Sphere2 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:462][197]LogConcert: Display: Synced activity '195' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere2.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:463][197]LogConcert: Display: Synced activity '196' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere2.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:464][197]LogConcert: Display: Synced activity '197' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere2.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:464][197]LogConcert: Display: Synced activity '198' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:465][197]LogConcert: Display: Synced activity '199' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:465][197]LogConcert: Display: Synced activity '200' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:465][197]LogConcert: Display: Synced activity '201' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:466][197]LogConcert: Display: Synced activity '202' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen created Sphere3 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:467][197]LogConcert: Display: Synced activity '203' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:468][197]LogConcert: Display: Synced activity '204' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:468][197]LogConcert: Display: Synced activity '205' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:469][197]LogConcert: Display: Synced activity '206' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:470][197]LogConcert: Display: Synced activity '207' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:470][197]LogConcert: Display: Synced activity '208' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:471][197]LogConcert: Display: Synced activity '209' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:471][197]LogConcert: Display: Synced activity '210' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:471][197]LogConcert: Display: Synced activity '211' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:473][197]LogConcert: Display: Synced activity '212' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:473][197]LogConcert: Display: Synced activity '213' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:474][197]LogConcert: Display: Synced activity '214' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen deleted EditorCube23 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:474][197]LogConcert: Display: Synced activity '215' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:475][197]LogConcert: Display: Synced activity '216' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:476][197]LogConcert: Display: Synced activity '217' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:476][197]LogConcert: Display: Synced activity '218' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:477][197]LogConcert: Display: Synced activity '219' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:477][197]LogConcert: Display: Synced activity '220' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:477][197]LogConcert: Display: Synced activity '221' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:479][197]LogConcert: Display: Synced activity '222' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:479][197]LogConcert: Display: Synced activity '223' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:480][197]LogConcert: Display: Synced activity '224' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen deleted EditorCube24 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:480][197]LogConcert: Display: Synced activity '225' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:482][197]LogConcert: Display: Synced activity '226' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:483][197]LogConcert: Display: Synced activity '227' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:483][197]LogConcert: Display: Synced activity '228' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked FirstPersonCharacter_C_0.CollisionCylinder in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:483][197]LogConcert: Display: Synced activity '229' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked FirstPersonCharacter2.CollisionCylinder in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:484][197]LogConcert: Display: Synced activity '230' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere3.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:485][197]LogConcert: Display: Synced activity '231' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen created Sphere4 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:486][197]LogConcert: Display: Synced activity '232' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:487][197]LogConcert: Display: Synced activity '233' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:487][197]LogConcert: Display: Synced activity '234' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:488][197]LogConcert: Display: Synced activity '235' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh created FirstPersonCharacter2 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:489][197]LogConcert: Display: Synced activity '236' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked FirstPersonCharacter_C_0.CollisionCylinder in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:489][197]LogConcert: Display: Synced activity '237' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:490][197]LogConcert: Display: Synced activity '238' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified FirstPersonCharacter2.CollisionCylinder in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:490][197]LogConcert: Display: Synced activity '239' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked FirstPersonCharacter2.CollisionCylinder in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:490][197]LogConcert: Display: Synced activity '240' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked FirstPersonCharacter2.CollisionCylinder in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:491][197]LogConcert: Display: Synced activity '241' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified FirstPersonCharacter2.CollisionCylinder in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:492][197]LogConcert: Display: Synced activity '242' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked FirstPersonCharacter2.CollisionCylinder in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:492][197]LogConcert: Display: Synced activity '243' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked FirstPersonCharacter2.CollisionCylinder in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:493][197]LogConcert: Display: Synced activity '244' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified FirstPersonCharacter2.CollisionCylinder in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:493][197]LogConcert: Display: Synced activity '245' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked FirstPersonCharacter2.CollisionCylinder in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:494][197]LogConcert: Display: Synced activity '246' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:494][197]LogConcert: Display: Synced activity '247' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:495][197]LogConcert: Display: Synced activity '248' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:496][197]LogConcert: Display: Synced activity '249' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:496][197]LogConcert: Display: Synced activity '250' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:496][197]LogConcert: Display: Synced activity '251' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:497][197]LogConcert: Display: Synced activity '252' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:497][197]LogConcert: Display: Synced activity '253' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:498][197]LogConcert: Display: Synced activity '254' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:499][197]LogConcert: Display: Synced activity '255' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:499][197]LogConcert: Display: Synced activity '256' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:499][197]LogConcert: Display: Synced activity '257' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:500][197]LogConcert: Display: Synced activity '258' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:501][197]LogConcert: Display: Synced activity '259' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:502][197]LogConcert: Display: Synced activity '260' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified None in None, plus -1 other action.
+[2020.02.06-09.22.32:502][197]LogConcert: Display: Synced activity '261' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:503][197]LogConcert: Display: Synced activity '262' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:504][197]LogConcert: Display: Synced activity '263' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:505][197]LogConcert: Display: Synced activity '264' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh deleted FirstPersonCharacter2 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:506][197]LogConcert: Display: Synced activity '265' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:507][197]LogConcert: Display: Synced activity '266' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:507][197]LogConcert: Display: Synced activity '267' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:507][197]LogConcert: Display: Synced activity '268' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:508][197]LogConcert: Display: Synced activity '269' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:509][197]LogConcert: Display: Synced activity '270' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:509][197]LogConcert: Display: Synced activity '271' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:510][197]LogConcert: Display: Synced activity '272' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:510][197]LogConcert: Display: Synced activity '273' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:510][197]LogConcert: Display: Synced activity '274' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:512][197]LogConcert: Display: Synced activity '275' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:512][197]LogConcert: Display: Synced activity '276' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:512][197]LogConcert: Display: Synced activity '277' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:514][197]LogConcert: Display: Synced activity '278' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:514][197]LogConcert: Display: Synced activity '279' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:514][197]LogConcert: Display: Synced activity '280' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen locked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:515][197]LogConcert: Display: Synced activity '281' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen modified Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:515][197]LogConcert: Display: Synced activity '282' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen unlocked Sphere4.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:515][197]LogConcert: Display: Synced activity '283' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked Wall4_20.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:517][197]LogConcert: Display: Synced activity '284' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified Wall4_20.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:517][197]LogConcert: Display: Synced activity '285' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked Wall4_20.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:517][197]LogConcert: Display: Synced activity '286' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:518][197]LogConcert: Display: Synced activity '287' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:518][197]LogConcert: Display: Synced activity '288' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked FirstPerson_AnimBP.SkeletalMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:520][197]LogConcert: Display: Synced activity '289' produced by endpoint '5E1B01F445577237E2D68B85FB9822C1': User1 discarded changes to package /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.
+[2020.02.06-09.22.32:520][197]LogConcert: Display: Synced activity '290' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:521][197]LogConcert: Display: Synced activity '291' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:521][197]LogConcert: Display: Synced activity '292' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:521][197]LogConcert: Display: Synced activity '293' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:522][197]LogConcert: Display: Synced activity '294' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen deleted SkySphereBlueprint in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 4 other actions.
+[2020.02.06-09.22.32:523][197]LogConcert: Display: Synced activity '295' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:524][197]LogConcert: Display: Synced activity '296' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:524][197]LogConcert: Display: Synced activity '297' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:525][197]LogConcert: Display: Synced activity '298' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:525][197]LogConcert: Display: Synced activity '299' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:527][197]LogConcert: Display: Synced activity '300' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen created SkySphereBlueprint in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 4 other actions.
+[2020.02.06-09.22.32:528][197]LogConcert: Display: Synced activity '301' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen deleted Sphere3 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 2 other actions.
+[2020.02.06-09.22.32:529][197]LogConcert: Display: Synced activity '302' produced by endpoint 'C5F3B4754FD6897A0D34B4BC8517451C': GamerBen deleted Sphere2 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:530][197]LogConcert: Display: Synced activity '303' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified EditorCube22.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:531][197]LogConcert: Display: Synced activity '304' produced by endpoint '5E1B01F445577237E2D68B85FB9822C1': User1 deleted BP_BARGHEST_OptionsSetUp in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:531][197]LogConcert: Display: Synced activity '305' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:533][197]LogConcert: Display: Synced activity '306' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:533][197]LogConcert: Display: Synced activity '307' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:533][197]LogConcert: Display: Synced activity '308' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:535][197]LogConcert: Display: Synced activity '309' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:535][197]LogConcert: Display: Synced activity '310' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:535][197]LogConcert: Display: Synced activity '311' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:536][197]LogConcert: Display: Synced activity '312' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:536][197]LogConcert: Display: Synced activity '313' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:536][197]LogConcert: Display: Synced activity '314' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:538][197]LogConcert: Display: Synced activity '315' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:538][197]LogConcert: Display: Synced activity '316' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:538][197]LogConcert: Display: Synced activity '317' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:539][197]LogConcert: Display: Synced activity '318' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:539][197]LogConcert: Display: Synced activity '319' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:540][197]LogConcert: Display: Synced activity '320' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked EditorCube14_8 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:540][197]LogConcert: Display: Synced activity '321' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:541][197]LogConcert: Display: Synced activity '322' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:541][197]LogConcert: Display: Synced activity '323' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:541][197]LogConcert: Display: Synced activity '324' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked EditorCube14_8 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:541][197]LogConcert: Display: Synced activity '325' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:542][197]LogConcert: Display: Synced activity '326' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:543][197]LogConcert: Display: Synced activity '327' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:543][197]LogConcert: Display: Synced activity '328' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked EditorCube14_8 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:543][197]LogConcert: Display: Synced activity '329' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:544][197]LogConcert: Display: Synced activity '330' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:544][197]LogConcert: Display: Synced activity '331' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.32:545][197]LogConcert: Display: Synced activity '332' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked EditorCube14_8 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:545][197]LogConcert: Display: Synced activity '333' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh locked EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:546][197]LogConcert: Display: Synced activity '334' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh modified EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.32:546][197]LogConcert: Display: Synced activity '335' produced by endpoint '4A157C4B4E13C814C2F03488811D4A4B': samrh unlocked EditorCube14_8.StaticMeshComponent0 in /Game/FirstPersonBP/Maps/FirstPersonExampleMap, plus 1 other resource.
+[2020.02.06-09.22.34:845][399]LogConcert: Display: Synced activity '336' produced by endpoint '15DF218049B09C2ADAA41AAABDC87673': Dylan saved package /Game/FirstPersonBP/Maps/FirstPersonExampleMap.
+[2020.02.06-09.22.37:260][429]LogConcert: Display: Synced activity '337' produced by endpoint '15DF218049B09C2ADAA41AAABDC87673': Dylan saved package /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.
+[2020.02.06-09.22.37:261][429]LogConcert: Display: Synced activity '338' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan joined the session.
+[2020.02.06-09.36.59:390][520]LogEditorViewport: Clicking Background
+[2020.02.06-09.37.50:271][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.02.06-09.37.50:272][278]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Levels/Level_1.umap' error.
+[2020.02.06-09.37.50:279][278]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Level_1C8DDBA7F4E45DB549066ABA6C9B4E078.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Levels/Level_1.umap'
+[2020.02.06-09.37.50:305][278]LogFileHelpers: Saving map 'Level_1' took 0.054
+[2020.02.06-09.37.50:306][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Level_1" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/Levels/Level_1.umap" SILENT=true
+[2020.02.06-09.37.50:307][278]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/Levels/Level_1.uasset' error.
+[2020.02.06-09.37.50:314][278]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Level_18CC0417F4A7E123E8BF87398989D6F1F.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/Levels/Level_1.umap'
+[2020.02.06-09.37.50:340][278]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.06-09.37.50:340][278]LogContentValidation: Display: Validating World /Game/SCP/Levels/Level_1.Level_1
+[2020.02.06-09.37.50:340][278]LogContentValidation: Display: Validating ObjectRedirector /Game/Levels/Level_1.Level_1
+[2020.02.06-09.37.50:355][279]LogConcert: Display: Synced activity '339' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Levels/Level_1.
+[2020.02.06-09.37.50:368][279]LogConcert: Display: Synced activity '340' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan saved package /Game/SCP/Levels/Level_1.
+[2020.02.06-09.37.50:368][279]LogConcert: Display: Synced activity '341' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Levels/Level_1.
+[2020.02.06-09.37.50:375][279]LogConcert: Display: Synced activity '342' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan renamed package /Game/Levels/Level_1 to /Game/SCP/Levels/Level_1.
+[2020.02.06-09.38.10:026][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.02.06-09.38.17:239][509]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.06-09.39.20:965][759]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\Stairs.fbx)
+[2020.02.06-09.39.20:996][759]LogFbx: Loading FBX Scene from C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\Stairs.fbx
+[2020.02.06-09.39.21:017][759]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.06-09.39.32:495][759]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.06-09.39.32:739][759]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/ECD1E395462EA013335BD9BF0C55C2BFA8C30BD6410A089A88EF09A507AED304.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/ECD1E395462EA013335BD9BF0C55C2BF.uasset'
+[2020.02.06-09.39.32:746][759]LogMaterial: Display: Missing cached shader map for material DoorFrames, compiling. 
+[2020.02.06-09.39.32:788][759]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.02.06-09.39.32:788][759]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.02.06-09.39.32:788][759]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.06-09.39.32:788][759]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.06-09.39.32:788][759]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/B77AA74E490B5269180167A02516F0EC1C399DEB43B77B593BB0A981DD26CC02.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/B77AA74E490B5269180167A02516F0EC.uasset'
+[2020.02.06-09.39.32:797][759]LogMaterial: Display: Missing cached shader map for material Black, compiling. 
+[2020.02.06-09.39.32:815][759]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/00DD90984BF25C50B00C50835DB44B1610E5B5C946DBEBFE9923349C818272C9.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/00DD90984BF25C50B00C50835DB44B16.uasset'
+[2020.02.06-09.39.32:825][759]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.02.06-09.39.32:853][759]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/5BE74D1E4B85E0EA96B38EAC73B6D016062FFC624C15E41FAE935CA21DF874E4.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/5BE74D1E4B85E0EA96B38EAC73B6D016.uasset'
+[2020.02.06-09.39.32:862][759]LogMaterial: Display: Missing cached shader map for material Steps, compiling. 
+[2020.02.06-09.39.32:882][759]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/1F9D794D4963E156DA9D169E7DA34B0FE12CB7B2401AAF1176D8E783B8F5497D.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/1F9D794D4963E156DA9D169E7DA34B0F.uasset'
+[2020.02.06-09.39.32:891][759]LogMaterial: Display: Missing cached shader map for material Floor, compiling. 
+[2020.02.06-09.39.32:911][759]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/2F4713464FB25C18F0E216835B1104F783F25FD44300095D6E7D4FB1B575420B.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/2F4713464FB25C18F0E216835B1104F7.uasset'
+[2020.02.06-09.39.32:923][759]LogMaterial: Display: Missing cached shader map for material Walls, compiling. 
+[2020.02.06-09.39.32:947][759]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/424250D948106F0EC050128D7B9A2AC76E407AB54E87D569CA1A0293E6881B29.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/424250D948106F0EC050128D7B9A2AC7.uasset'
+[2020.02.06-09.39.32:959][759]LogMaterial: Display: Missing cached shader map for material Roof, compiling. 
+[2020.02.06-09.39.32:970][759]LogFbx: Display: Triangulating static mesh pCube112
+[2020.02.06-09.39.32:973][759]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.06-09.39.32:973][759]FBXImport: Warning: Unable to triangulate mesh '' 
+[2020.02.06-09.39.32:973][759]FBXImport: Error: Import failed. 
+[2020.02.06-09.39.33:926][759]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 90
+[2020.02.06-09.39.34:336][759]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 80
+[2020.02.06-09.39.34:488][759]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 70
+[2020.02.06-09.39.34:641][759]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 60
+[2020.02.06-09.39.37:408][759]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 50
+[2020.02.06-09.39.37:425][759]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 40
+[2020.02.06-09.39.37:885][759]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 30
+[2020.02.06-09.39.38:160][759]LogSlate: Window 'Message' being destroyed
+[2020.02.06-09.39.38:163][759]LogAssetTools: Warning: Failed to import 'C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\Stairs.fbx'. Failed to create asset '/Game/SCP/Models/Stairs'.
+Please see Output Log for details.
+[2020.02.06-09.39.38:175][759]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\StraightCoridoor.fbx)
+[2020.02.06-09.39.38:186][759]LogFbx: Loading FBX Scene from C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\StraightCoridoor.fbx
+[2020.02.06-09.39.38:199][759]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.06-09.39.38:226][759]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/D30A19124301C933723586B995103A94C4D2D69141F0336BAA443CB22F2B4A31.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/D30A19124301C933723586B995103A94.uasset'
+[2020.02.06-09.39.38:242][759]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.02.06-09.39.38:243][759]LogMaterial: Display: Missing cached shader map for material Pillar, compiling. 
+[2020.02.06-09.39.38:263][759]LogFbx: Display: Triangulating static mesh pCube83
+[2020.02.06-09.39.38:285][759]LogStaticMesh: Building static mesh StraightCoridoor...
+[2020.02.06-09.39.38:302][759]LogStaticMesh: Built static mesh [0.02s] /Game/SCP/Models/StraightCoridoor.StraightCoridoor
+[2020.02.06-09.39.38:317][759]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.06-09.39.38:333][759]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/FD80BA75494A93295A4EE79E61AE8E3A03C97DF745F743ADC2D800B2B55C685D.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/FD80BA75494A93295A4EE79E61AE8E3A.uasset'
+[2020.02.06-09.39.38:355][759]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\3DoorRoom.fbx)
+[2020.02.06-09.39.38:370][759]LogFbx: Loading FBX Scene from C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\3DoorRoom.fbx
+[2020.02.06-09.39.38:383][759]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.06-09.39.38:408][759]LogFbx: Display: Triangulating static mesh pCube84
+[2020.02.06-09.39.38:432][759]LogStaticMesh: Building static mesh 3DoorRoom...
+[2020.02.06-09.39.38:449][759]LogStaticMesh: Built static mesh [0.02s] /Game/SCP/Models/3DoorRoom.3DoorRoom
+[2020.02.06-09.39.38:465][759]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.06-09.39.38:486][759]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/CC7859E949531AB1F2CFC082FCA2578B818FF10347C2F119BEF385A5FC2917AF.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/CC7859E949531AB1F2CFC082FCA2578B.uasset'
+[2020.02.06-09.39.38:510][759]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\CornerCorridoor.fbx)
+[2020.02.06-09.39.38:525][759]LogFbx: Loading FBX Scene from C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\CornerCorridoor.fbx
+[2020.02.06-09.39.38:536][759]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.06-09.39.38:564][759]LogFbx: Display: Triangulating static mesh pCube86
+[2020.02.06-09.39.38:584][759]LogStaticMesh: Building static mesh CornerCorridoor...
+[2020.02.06-09.39.38:603][759]LogStaticMesh: Built static mesh [0.02s] /Game/SCP/Models/CornerCorridoor.CornerCorridoor
+[2020.02.06-09.39.38:616][759]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.06-09.39.38:638][759]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/3F02930248343642D2968DA25455AA6EC323F94144A35BBC89B81ABE5F1F2300.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/3F02930248343642D2968DA25455AA6E.uasset'
+[2020.02.06-09.39.38:657][759]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\Elevator.fbx)
+[2020.02.06-09.39.38:677][759]LogFbx: Loading FBX Scene from C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\Elevator.fbx
+[2020.02.06-09.39.38:697][759]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.06-09.39.38:715][759]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/9E3883AB4C02BDD42C69E8B0B9F9253B34692CD242461533C3E974A23F6244AD.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/9E3883AB4C02BDD42C69E8B0B9F9253B.uasset'
+[2020.02.06-09.39.38:734][759]LogMaterial: Display: Missing cached shader map for material Railing, compiling. 
+[2020.02.06-09.39.38:775][759]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/D34B9CA447909ACAC785E4AED159FC4A0DEB1AB04E285A8FE34157B0CE5B3EBD.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/D34B9CA447909ACAC785E4AED159FC4A.uasset'
+[2020.02.06-09.39.38:788][759]LogMaterial: Display: Missing cached shader map for material MetalWall, compiling. 
+[2020.02.06-09.39.38:815][759]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/CA7CE01343D5842221307997332956E5738564CC4E22B598429F0C9C462297E7.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/CA7CE01343D5842221307997332956E5.uasset'
+[2020.02.06-09.39.38:829][759]LogMaterial: Display: Missing cached shader map for material KeypadEdges, compiling. 
+[2020.02.06-09.39.38:859][759]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/6AB2B3EC402C320868EB92933EDFC4CF6FF2131346942132218B0DA4D5B300CC.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/6AB2B3EC402C320868EB92933EDFC4CF.uasset'
+[2020.02.06-09.39.38:870][759]LogMaterial: Display: Missing cached shader map for material Keypad, compiling. 
+[2020.02.06-09.39.38:889][759]LogFbx: Display: Triangulating static mesh pCube42
+[2020.02.06-09.39.38:902][759]LogStaticMesh: Building static mesh Elevator...
+[2020.02.06-09.39.38:912][759]LogStaticMesh: Built static mesh [0.01s] /Game/SCP/Models/Elevator.Elevator
+[2020.02.06-09.39.38:925][759]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.06-09.39.38:945][759]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/DA4EB3364F7184131DC4328EC3FDEAF5E929F1D542A1DC7A7C95818CC6869E2F.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/DA4EB3364F7184131DC4328EC3FDEAF5.uasset'
+[2020.02.06-09.39.38:968][759]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\Office.fbx)
+[2020.02.06-09.39.38:983][759]LogFbx: Loading FBX Scene from C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\Office.fbx
+[2020.02.06-09.39.38:993][759]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.06-09.39.39:009][759]LogFbx: Display: Triangulating static mesh pCube114
+[2020.02.06-09.39.39:014][759]LogStaticMesh: Building static mesh Office...
+[2020.02.06-09.39.39:017][759]LogStaticMesh: Built static mesh [0.00s] /Game/SCP/Models/Office.Office
+[2020.02.06-09.39.39:029][759]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.06-09.39.39:045][759]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/265B09DC44556AEE5F9E078F8B75E32F2D61D17645BAFE67CAE2E899AF628E79.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/265B09DC44556AEE5F9E078F8B75E32F.uasset'
+[2020.02.06-09.39.39:206][759]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.02.06-09.39.39:282][760]LogConcert: Display: Synced activity '343' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Stairs.
+[2020.02.06-09.39.39:294][760]LogConcert: Display: Synced activity '344' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Models/DoorFrames.
+[2020.02.06-09.39.39:295][760]LogConcert: Display: Synced activity '345' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/DoorFrames.
+[2020.02.06-09.39.39:304][760]LogConcert: Display: Synced activity '346' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Models/Black.
+[2020.02.06-09.39.39:305][760]LogConcert: Display: Synced activity '347' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Black.
+[2020.02.06-09.39.39:315][760]LogConcert: Display: Synced activity '348' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Models/lambert1.
+[2020.02.06-09.39.39:315][760]LogConcert: Display: Synced activity '349' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/lambert1.
+[2020.02.06-09.39.39:326][760]LogConcert: Display: Synced activity '350' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Models/Steps.
+[2020.02.06-09.39.39:326][760]LogConcert: Display: Synced activity '351' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Steps.
+[2020.02.06-09.39.39:334][760]LogConcert: Display: Synced activity '352' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Models/Floor.
+[2020.02.06-09.39.39:334][760]LogConcert: Display: Synced activity '353' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Floor.
+[2020.02.06-09.39.39:343][760]LogConcert: Display: Synced activity '354' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Models/Walls.
+[2020.02.06-09.39.39:343][760]LogConcert: Display: Synced activity '355' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Walls.
+[2020.02.06-09.39.39:352][760]LogConcert: Display: Synced activity '356' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Models/Roof.
+[2020.02.06-09.39.39:352][760]LogConcert: Display: Synced activity '357' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Roof.
+[2020.02.06-09.39.39:353][760]LogConcert: Display: Synced activity '358' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/StraightCoridoor.
+[2020.02.06-09.39.39:360][760]LogConcert: Display: Synced activity '359' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Models/Pillar.
+[2020.02.06-09.39.39:361][760]LogConcert: Display: Synced activity '360' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Pillar.
+[2020.02.06-09.39.39:371][760]LogConcert: Display: Synced activity '361' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Models/StraightCoridoor.
+[2020.02.06-09.39.39:372][760]LogConcert: Display: Synced activity '362' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/StraightCoridoor.
+[2020.02.06-09.39.39:372][760]LogConcert: Display: Synced activity '363' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/3DoorRoom.
+[2020.02.06-09.39.39:385][760]LogConcert: Display: Synced activity '364' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Models/3DoorRoom.
+[2020.02.06-09.39.39:385][760]LogConcert: Display: Synced activity '365' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/3DoorRoom.
+[2020.02.06-09.39.39:398][760]LogConcert: Display: Synced activity '366' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/CornerCorridoor.
+[2020.02.06-09.39.39:410][760]LogConcert: Display: Synced activity '367' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Models/CornerCorridoor.
+[2020.02.06-09.39.39:410][760]LogConcert: Display: Synced activity '368' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/CornerCorridoor.
+[2020.02.06-09.39.39:411][760]LogConcert: Display: Synced activity '369' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Elevator.
+[2020.02.06-09.39.39:417][760]LogConcert: Display: Synced activity '370' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Models/Railing.
+[2020.02.06-09.39.39:418][760]LogConcert: Display: Synced activity '371' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Railing.
+[2020.02.06-09.39.39:426][760]LogConcert: Display: Synced activity '372' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Models/MetalWall.
+[2020.02.06-09.39.39:426][760]LogConcert: Display: Synced activity '373' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/MetalWall.
+[2020.02.06-09.39.39:434][760]LogConcert: Display: Synced activity '374' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Models/KeypadEdges.
+[2020.02.06-09.39.39:434][760]LogConcert: Display: Synced activity '375' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/KeypadEdges.
+[2020.02.06-09.39.39:443][760]LogConcert: Display: Synced activity '376' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Models/Keypad.
+[2020.02.06-09.39.39:444][760]LogConcert: Display: Synced activity '377' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Keypad.
+[2020.02.06-09.39.39:455][760]LogConcert: Display: Synced activity '378' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Models/Elevator.
+[2020.02.06-09.39.39:455][760]LogConcert: Display: Synced activity '379' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/Elevator.
+[2020.02.06-09.39.39:456][760]LogConcert: Display: Synced activity '380' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Office.
+[2020.02.06-09.39.39:466][760]LogConcert: Display: Synced activity '381' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Models/Office.
+[2020.02.06-09.39.39:467][760]LogConcert: Display: Synced activity '382' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/Office.
+[2020.02.06-09.39.39:583][760]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.06-09.39.39:583][760]LogContentValidation: Display: Validating Material /Game/SCP/Models/DoorFrames.DoorFrames
+[2020.02.06-09.39.39:583][760]LogContentValidation: Display: Validating Material /Game/SCP/Models/Black.Black
+[2020.02.06-09.39.39:583][760]LogContentValidation: Display: Validating Material /Game/SCP/Models/lambert1.lambert1
+[2020.02.06-09.39.39:583][760]LogContentValidation: Display: Validating Material /Game/SCP/Models/Steps.Steps
+[2020.02.06-09.39.39:583][760]LogContentValidation: Display: Validating Material /Game/SCP/Models/Floor.Floor
+[2020.02.06-09.39.39:583][760]LogContentValidation: Display: Validating Material /Game/SCP/Models/Walls.Walls
+[2020.02.06-09.39.39:583][760]LogContentValidation: Display: Validating Material /Game/SCP/Models/Roof.Roof
+[2020.02.06-09.39.39:583][760]LogContentValidation: Display: Validating Material /Game/SCP/Models/Pillar.Pillar
+[2020.02.06-09.39.39:583][760]LogContentValidation: Display: Validating StaticMesh /Game/SCP/Models/StraightCoridoor.StraightCoridoor
+[2020.02.06-09.39.39:583][760]LogContentValidation: Display: Validating StaticMesh /Game/SCP/Models/3DoorRoom.3DoorRoom
+[2020.02.06-09.39.39:583][760]LogContentValidation: Display: Validating StaticMesh /Game/SCP/Models/CornerCorridoor.CornerCorridoor
+[2020.02.06-09.39.39:583][760]LogContentValidation: Display: Validating Material /Game/SCP/Models/Railing.Railing
+[2020.02.06-09.39.39:583][760]LogContentValidation: Display: Validating Material /Game/SCP/Models/MetalWall.MetalWall
+[2020.02.06-09.39.39:583][760]LogContentValidation: Display: Validating Material /Game/SCP/Models/KeypadEdges.KeypadEdges
+[2020.02.06-09.39.39:583][760]LogContentValidation: Display: Validating Material /Game/SCP/Models/Keypad.Keypad
+[2020.02.06-09.39.39:583][760]LogContentValidation: Display: Validating StaticMesh /Game/SCP/Models/Elevator.Elevator
+[2020.02.06-09.39.39:583][760]LogContentValidation: Display: Validating StaticMesh /Game/SCP/Models/Office.Office
+[2020.02.06-09.39.40:984][801]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 91
+[2020.02.06-09.39.41:383][815]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 81
+[2020.02.06-09.39.41:555][820]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 71
+[2020.02.06-09.39.42:037][833]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 61
+[2020.02.06-09.39.42:662][851]LogSlate: Window 'Message Log' being destroyed
+[2020.02.06-09.39.42:694][851]LogSlate: Window 'Message Log' being destroyed
+[2020.02.06-09.39.50:509][ 31]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 51
+[2020.02.06-09.39.50:910][ 42]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2020.02.06-09.39.52:222][ 73]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 31
+[2020.02.06-09.39.52:987][ 92]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.02.06-09.39.58:958][285]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.02.06-09.39.59:103][289]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.02.06-09.39.59:493][297]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.06-09.40.01:717][347]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.06-09.40.02:151][365]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.06-09.40.03:059][394]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.06-09.40.03:254][400]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.06-09.40.10:115][984]LogConcert: Display: Synced activity '383' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/Black, plus 11 other resources.
+[2020.02.06-09.40.53:313][375]LogUObjectHash: Compacting FUObjectHashTables data took   7.55ms
+[2020.02.06-09.40.58:189][375]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.06-09.40.58:345][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.02.06-09.40.58:364][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.02.06-09.40.58:383][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.06-09.40.58:402][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.02.06-09.40.58:424][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.02.06-09.40.58:443][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.06-09.40.58:462][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.02.06-09.40.58:481][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.02.06-09.40.58:499][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.02.06-09.40.58:521][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.02.06-09.40.58:540][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.06-09.40.58:563][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.02.06-09.40.58:582][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.02.06-09.40.58:601][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.02.06-09.40.58:620][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.02.06-09.40.58:639][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.02.06-09.40.58:660][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.02.06-09.40.58:683][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.02.06-09.40.58:702][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.02.06-09.40.58:711][376]LogConcert: Display: Synced activity '384' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Walls.
+[2020.02.06-09.40.58:716][376]LogConcert: Display: Synced activity '385' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan deleted package /Game/SCP/Models/Walls.
+[2020.02.06-09.40.58:716][376]LogConcert: Display: Synced activity '386' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/Walls.
+[2020.02.06-09.40.58:716][376]LogConcert: Display: Synced activity '387' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/3DoorRoom.
+[2020.02.06-09.40.58:721][376]LogConcert: Display: Synced activity '388' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan deleted package /Game/SCP/Models/3DoorRoom.
+[2020.02.06-09.40.58:721][376]LogConcert: Display: Synced activity '389' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/3DoorRoom.
+[2020.02.06-09.40.58:721][376]LogConcert: Display: Synced activity '390' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Black.
+[2020.02.06-09.40.58:725][376]LogConcert: Display: Synced activity '391' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan deleted package /Game/SCP/Models/Black.
+[2020.02.06-09.40.58:725][376]LogConcert: Display: Synced activity '392' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/Black.
+[2020.02.06-09.40.58:726][376]LogConcert: Display: Synced activity '393' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/CornerCorridoor.
+[2020.02.06-09.40.58:730][376]LogConcert: Display: Synced activity '394' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan deleted package /Game/SCP/Models/CornerCorridoor.
+[2020.02.06-09.40.58:730][376]LogConcert: Display: Synced activity '395' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/CornerCorridoor.
+[2020.02.06-09.40.58:730][376]LogConcert: Display: Synced activity '396' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/DoorFrames.
+[2020.02.06-09.40.58:734][376]LogConcert: Display: Synced activity '397' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan deleted package /Game/SCP/Models/DoorFrames.
+[2020.02.06-09.40.58:734][376]LogConcert: Display: Synced activity '398' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/DoorFrames.
+[2020.02.06-09.40.58:735][376]LogConcert: Display: Synced activity '399' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Elevator.
+[2020.02.06-09.40.58:739][376]LogConcert: Display: Synced activity '400' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan deleted package /Game/SCP/Models/Elevator.
+[2020.02.06-09.40.58:740][376]LogConcert: Display: Synced activity '401' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/Elevator.
+[2020.02.06-09.40.58:740][376]LogConcert: Display: Synced activity '402' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Floor.
+[2020.02.06-09.40.58:744][376]LogConcert: Display: Synced activity '403' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan deleted package /Game/SCP/Models/Floor.
+[2020.02.06-09.40.58:744][376]LogConcert: Display: Synced activity '404' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/Floor.
+[2020.02.06-09.40.58:744][376]LogConcert: Display: Synced activity '405' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Keypad.
+[2020.02.06-09.40.58:748][376]LogConcert: Display: Synced activity '406' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan deleted package /Game/SCP/Models/Keypad.
+[2020.02.06-09.40.58:748][376]LogConcert: Display: Synced activity '407' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/Keypad.
+[2020.02.06-09.40.58:748][376]LogConcert: Display: Synced activity '408' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/KeypadEdges.
+[2020.02.06-09.40.58:752][376]LogConcert: Display: Synced activity '409' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan deleted package /Game/SCP/Models/KeypadEdges.
+[2020.02.06-09.40.58:752][376]LogConcert: Display: Synced activity '410' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/KeypadEdges.
+[2020.02.06-09.40.58:753][376]LogConcert: Display: Synced activity '411' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/lambert1.
+[2020.02.06-09.40.58:756][376]LogConcert: Display: Synced activity '412' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan deleted package /Game/SCP/Models/lambert1.
+[2020.02.06-09.40.58:756][376]LogConcert: Display: Synced activity '413' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/lambert1.
+[2020.02.06-09.40.58:756][376]LogConcert: Display: Synced activity '414' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/MetalWall.
+[2020.02.06-09.40.58:760][376]LogConcert: Display: Synced activity '415' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan deleted package /Game/SCP/Models/MetalWall.
+[2020.02.06-09.40.58:760][376]LogConcert: Display: Synced activity '416' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/MetalWall.
+[2020.02.06-09.40.58:760][376]LogConcert: Display: Synced activity '417' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Office.
+[2020.02.06-09.40.58:764][376]LogConcert: Display: Synced activity '418' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan deleted package /Game/SCP/Models/Office.
+[2020.02.06-09.40.58:764][376]LogConcert: Display: Synced activity '419' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/Office.
+[2020.02.06-09.40.58:765][376]LogConcert: Display: Synced activity '420' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Pillar.
+[2020.02.06-09.40.58:768][376]LogConcert: Display: Synced activity '421' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan deleted package /Game/SCP/Models/Pillar.
+[2020.02.06-09.40.58:769][376]LogConcert: Display: Synced activity '422' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/Pillar.
+[2020.02.06-09.40.58:769][376]LogConcert: Display: Synced activity '423' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Railing.
+[2020.02.06-09.40.58:773][376]LogConcert: Display: Synced activity '424' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan deleted package /Game/SCP/Models/Railing.
+[2020.02.06-09.40.58:773][376]LogConcert: Display: Synced activity '425' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/Railing.
+[2020.02.06-09.40.58:773][376]LogConcert: Display: Synced activity '426' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Roof.
+[2020.02.06-09.40.58:777][376]LogConcert: Display: Synced activity '427' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan deleted package /Game/SCP/Models/Roof.
+[2020.02.06-09.40.58:777][376]LogConcert: Display: Synced activity '428' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/Roof.
+[2020.02.06-09.40.58:777][376]LogConcert: Display: Synced activity '429' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Steps.
+[2020.02.06-09.40.58:781][376]LogConcert: Display: Synced activity '430' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan deleted package /Game/SCP/Models/Steps.
+[2020.02.06-09.40.58:781][376]LogConcert: Display: Synced activity '431' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/Steps.
+[2020.02.06-09.40.58:781][376]LogConcert: Display: Synced activity '432' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/StraightCoridoor.
+[2020.02.06-09.40.58:786][376]LogConcert: Display: Synced activity '433' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan deleted package /Game/SCP/Models/StraightCoridoor.
+[2020.02.06-09.40.58:787][376]LogConcert: Display: Synced activity '434' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/StraightCoridoor.
+[2020.02.06-09.41.02:829][471]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\StraightCoridoor.fbx)
+[2020.02.06-09.41.02:837][471]LogFbx: Loading FBX Scene from C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\StraightCoridoor.fbx
+[2020.02.06-09.41.02:845][471]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.06-09.41.05:596][471]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.06-09.41.05:631][471]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/9525D6A442B527809731A2A36E44A0D1934816E34A909576C1A06EB8E419AB28.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/9525D6A442B527809731A2A36E44A0D1.uasset'
+[2020.02.06-09.41.05:641][471]LogMaterial: Display: Missing cached shader map for material Black, compiling. 
+[2020.02.06-09.41.05:659][471]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.02.06-09.41.05:659][471]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.02.06-09.41.05:659][471]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.06-09.41.05:659][471]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.02.06-09.41.05:659][471]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/EECE5CF8477CCC83BFECC1A411650D8BEEC41B044FCEE7F566E0428027204AD4.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/EECE5CF8477CCC83BFECC1A411650D8B.uasset'
+[2020.02.06-09.41.05:671][471]LogMaterial: Display: Missing cached shader map for material DoorFrames, compiling. 
+[2020.02.06-09.41.05:689][471]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/1B98BD2446775813BAD5A48CEFE3E3E1900ED08E46A62CC407E9F9A7083AEE1E.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/1B98BD2446775813BAD5A48CEFE3E3E1.uasset'
+[2020.02.06-09.41.05:707][471]LogMaterial: Display: Missing cached shader map for material Floor, compiling. 
+[2020.02.06-09.41.05:736][471]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/02240BD64E8583DBAC8D02AA26123E3AAA0B80C841DD6400758B848687C0C36E.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/02240BD64E8583DBAC8D02AA26123E3A.uasset'
+[2020.02.06-09.41.05:750][471]LogMaterial: Display: Missing cached shader map for material Roof, compiling. 
+[2020.02.06-09.41.05:780][471]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/899E89874D2F43C3741FDA8D8BB8B6F5E7B435D0409980230F9DA7BB18C10D9E.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/899E89874D2F43C3741FDA8D8BB8B6F5.uasset'
+[2020.02.06-09.41.05:795][471]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2020.02.06-09.41.05:816][471]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/C828FB5A42EB90714FA88A952409EA6A41F2CF8C4109C4BB9F7DE59F3A4439B2.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/C828FB5A42EB90714FA88A952409EA6A.uasset'
+[2020.02.06-09.41.05:828][471]LogMaterial: Display: Missing cached shader map for material Pillar, compiling. 
+[2020.02.06-09.41.05:853][471]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/901F818D471240F2500930B46826FF1DCA3C925A48CE97FAFA111E87D0BE4CF7.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/901F818D471240F2500930B46826FF1D.uasset'
+[2020.02.06-09.41.05:866][471]LogMaterial: Display: Missing cached shader map for material Walls, compiling. 
+[2020.02.06-09.41.05:880][471]LogFbx: Display: Triangulating static mesh pCube83
+[2020.02.06-09.41.05:897][471]LogStaticMesh: Building static mesh StraightCoridoor...
+[2020.02.06-09.41.05:912][471]LogStaticMesh: Built static mesh [0.02s] /Game/SCP/StraightCoridoor.StraightCoridoor
+[2020.02.06-09.41.05:925][471]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.06-09.41.06:005][471]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/9BD40B7240E60DC1976D468EA7AB624AD91E5B344D700005581F49A3C17B4430.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/9BD40B7240E60DC1976D468EA7AB624A.uasset'
+[2020.02.06-09.41.06:022][471]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\3DoorRoom.fbx)
+[2020.02.06-09.41.06:041][471]LogFbx: Loading FBX Scene from C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\3DoorRoom.fbx
+[2020.02.06-09.41.06:057][471]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.06-09.41.06:087][471]LogFbx: Display: Triangulating static mesh pCube84
+[2020.02.06-09.41.06:117][471]LogStaticMesh: Building static mesh 3DoorRoom...
+[2020.02.06-09.41.06:132][471]LogStaticMesh: Built static mesh [0.01s] /Game/SCP/3DoorRoom.3DoorRoom
+[2020.02.06-09.41.06:145][471]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.06-09.41.06:169][471]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/BDFD02504D4C1A37ACC8FAA179D9141DCE19B8524C0FF98A5044E68ABCBE3F6D.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/BDFD02504D4C1A37ACC8FAA179D9141D.uasset'
+[2020.02.06-09.41.06:186][471]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\CornerCorridoor.fbx)
+[2020.02.06-09.41.06:201][471]LogFbx: Loading FBX Scene from C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\CornerCorridoor.fbx
+[2020.02.06-09.41.06:213][471]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.06-09.41.06:232][471]LogFbx: Display: Triangulating static mesh pCube86
+[2020.02.06-09.41.06:252][471]LogStaticMesh: Building static mesh CornerCorridoor...
+[2020.02.06-09.41.06:265][471]LogStaticMesh: Built static mesh [0.01s] /Game/SCP/CornerCorridoor.CornerCorridoor
+[2020.02.06-09.41.06:278][471]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.06-09.41.06:298][471]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/342E35C844EF667F0FE53DA6C2BDF2826E5103F9451102DF6C68E4AB4217C906.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/342E35C844EF667F0FE53DA6C2BDF282.uasset'
+[2020.02.06-09.41.06:313][471]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\Elevator.fbx)
+[2020.02.06-09.41.06:330][471]LogFbx: Loading FBX Scene from C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\Elevator.fbx
+[2020.02.06-09.41.06:354][471]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.06-09.41.06:376][471]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/F6B1A6BE42CD4B7FE366AFA116E679C112A0797049EFB6A7880E47A7F8E0A4C0.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/F6B1A6BE42CD4B7FE366AFA116E679C1.uasset'
+[2020.02.06-09.41.06:392][471]LogMaterial: Display: Missing cached shader map for material Railing, compiling. 
+[2020.02.06-09.41.06:426][471]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/7578E853452F852C8DEE1E9988F3948ACE7ADBC94B83D2702FFB319B069E88A1.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/7578E853452F852C8DEE1E9988F3948A.uasset'
+[2020.02.06-09.41.06:440][471]LogMaterial: Display: Missing cached shader map for material MetalWall, compiling. 
+[2020.02.06-09.41.06:480][471]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/330B0D564130ABF34A5297848CCAB858CBAF967F462E7DFC61DD569FB974F964.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/330B0D564130ABF34A5297848CCAB858.uasset'
+[2020.02.06-09.41.06:501][471]LogMaterial: Display: Missing cached shader map for material KeypadEdges, compiling. 
+[2020.02.06-09.41.06:534][471]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/1FD6DC8247804C7FF3BE99B71E770F08520628674CDEBC034E8A61B6F8AA6EB4.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/1FD6DC8247804C7FF3BE99B71E770F08.uasset'
+[2020.02.06-09.41.06:552][471]LogMaterial: Display: Missing cached shader map for material Keypad, compiling. 
+[2020.02.06-09.41.06:575][471]LogFbx: Display: Triangulating static mesh pCube42
+[2020.02.06-09.41.06:590][471]LogStaticMesh: Building static mesh Elevator...
+[2020.02.06-09.41.06:600][471]LogStaticMesh: Built static mesh [0.01s] /Game/SCP/Elevator.Elevator
+[2020.02.06-09.41.06:612][471]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.06-09.41.06:633][471]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/8CB9E1DB4292A8DF311315B100FC884BED02D6B14A91B1531742539C60B1E0B3.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/8CB9E1DB4292A8DF311315B100FC884B.uasset'
+[2020.02.06-09.41.06:647][471]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\Office.fbx)
+[2020.02.06-09.41.06:662][471]LogFbx: Loading FBX Scene from C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\Office.fbx
+[2020.02.06-09.41.06:673][471]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.06-09.41.06:692][471]LogFbx: Display: Triangulating static mesh pCube114
+[2020.02.06-09.41.06:698][471]LogStaticMesh: Building static mesh Office...
+[2020.02.06-09.41.06:703][471]LogStaticMesh: Built static mesh [0.01s] /Game/SCP/Office.Office
+[2020.02.06-09.41.06:714][471]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.06-09.41.06:733][471]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/9C25F5804CD301BCD05599BC6F7A6B9740F7F34F4D1C2A0DCA5DDC828E8D2942.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/9C25F5804CD301BCD05599BC6F7A6B97.uasset'
+[2020.02.06-09.41.06:748][471]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\Stairs.fbx)
+[2020.02.06-09.41.06:764][471]LogFbx: Loading FBX Scene from C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\Stairs.fbx
+[2020.02.06-09.41.06:787][471]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.06-09.41.06:808][471]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/DD6293FB4FC60109C487E3BEE41DFDDACB320283431537B726820CA2AEDC8725.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Intermediate/Concert/Temp/DD6293FB4FC60109C487E3BEE41DFDDA.uasset'
+[2020.02.06-09.41.06:826][471]LogMaterial: Display: Missing cached shader map for material Steps, compiling. 
+[2020.02.06-09.41.06:853][471]LogFbx: Display: Triangulating static mesh pCube112
+[2020.02.06-09.41.06:857][471]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.06-09.41.06:857][471]FBXImport: Warning: Unable to triangulate mesh '' 
+[2020.02.06-09.41.06:857][471]FBXImport: Error: Import failed. 
+[2020.02.06-09.41.06:911][471]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 165
+[2020.02.06-09.41.07:325][471]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 155
+[2020.02.06-09.41.07:599][471]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 145
+[2020.02.06-09.41.07:684][471]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 135
+[2020.02.06-09.41.08:200][471]LogSlate: Window 'Message' being destroyed
+[2020.02.06-09.41.08:204][471]LogAssetTools: Warning: Failed to import 'C:\Users\Boomsatsuma\Downloads\FBX-20200206T093646Z-001\FBX\Stairs.fbx'. Failed to create asset '/Game/SCP/Stairs'.
+Please see Output Log for details.
+[2020.02.06-09.41.08:381][471]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'None' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.02.06-09.41.08:443][472]LogConcert: Display: Synced activity '435' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/StraightCoridoor.
+[2020.02.06-09.41.08:455][472]LogConcert: Display: Synced activity '436' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Black.
+[2020.02.06-09.41.08:455][472]LogConcert: Display: Synced activity '437' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Black.
+[2020.02.06-09.41.08:467][472]LogConcert: Display: Synced activity '438' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/DoorFrames.
+[2020.02.06-09.41.08:467][472]LogConcert: Display: Synced activity '439' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/DoorFrames.
+[2020.02.06-09.41.08:476][472]LogConcert: Display: Synced activity '440' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Floor.
+[2020.02.06-09.41.08:477][472]LogConcert: Display: Synced activity '441' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Floor.
+[2020.02.06-09.41.08:488][472]LogConcert: Display: Synced activity '442' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Roof.
+[2020.02.06-09.41.08:488][472]LogConcert: Display: Synced activity '443' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Roof.
+[2020.02.06-09.41.08:496][472]LogConcert: Display: Synced activity '444' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/lambert1.
+[2020.02.06-09.41.08:496][472]LogConcert: Display: Synced activity '445' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/lambert1.
+[2020.02.06-09.41.08:504][472]LogConcert: Display: Synced activity '446' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Pillar.
+[2020.02.06-09.41.08:505][472]LogConcert: Display: Synced activity '447' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Pillar.
+[2020.02.06-09.41.08:514][472]LogConcert: Display: Synced activity '448' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Walls.
+[2020.02.06-09.41.08:514][472]LogConcert: Display: Synced activity '449' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Walls.
+[2020.02.06-09.41.08:525][472]LogConcert: Display: Synced activity '450' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/StraightCoridoor.
+[2020.02.06-09.41.08:525][472]LogConcert: Display: Synced activity '451' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/StraightCoridoor.
+[2020.02.06-09.41.08:526][472]LogConcert: Display: Synced activity '452' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/3DoorRoom.
+[2020.02.06-09.41.08:534][472]LogConcert: Display: Synced activity '453' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/3DoorRoom.
+[2020.02.06-09.41.08:535][472]LogConcert: Display: Synced activity '454' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/3DoorRoom.
+[2020.02.06-09.41.08:535][472]LogConcert: Display: Synced activity '455' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/CornerCorridoor.
+[2020.02.06-09.41.08:546][472]LogConcert: Display: Synced activity '456' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/CornerCorridoor.
+[2020.02.06-09.41.08:547][472]LogConcert: Display: Synced activity '457' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/CornerCorridoor.
+[2020.02.06-09.41.08:547][472]LogConcert: Display: Synced activity '458' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Elevator.
+[2020.02.06-09.41.08:555][472]LogConcert: Display: Synced activity '459' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Railing.
+[2020.02.06-09.41.08:555][472]LogConcert: Display: Synced activity '460' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Railing.
+[2020.02.06-09.41.08:560][472]LogConcert: Display: Synced activity '461' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/MetalWall.
+[2020.02.06-09.41.08:561][472]LogConcert: Display: Synced activity '462' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/MetalWall.
+[2020.02.06-09.41.08:568][472]LogConcert: Display: Synced activity '463' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/KeypadEdges.
+[2020.02.06-09.41.08:569][472]LogConcert: Display: Synced activity '464' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/KeypadEdges.
+[2020.02.06-09.41.08:575][472]LogConcert: Display: Synced activity '465' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Keypad.
+[2020.02.06-09.41.08:575][472]LogConcert: Display: Synced activity '466' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Keypad.
+[2020.02.06-09.41.08:584][472]LogConcert: Display: Synced activity '467' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Elevator.
+[2020.02.06-09.41.08:585][472]LogConcert: Display: Synced activity '468' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Elevator.
+[2020.02.06-09.41.08:585][472]LogConcert: Display: Synced activity '469' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Office.
+[2020.02.06-09.41.08:592][472]LogConcert: Display: Synced activity '470' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Office.
+[2020.02.06-09.41.08:592][472]LogConcert: Display: Synced activity '471' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Office.
+[2020.02.06-09.41.08:592][472]LogConcert: Display: Synced activity '472' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Stairs.
+[2020.02.06-09.41.08:599][472]LogConcert: Display: Synced activity '473' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan added package /Game/SCP/Steps.
+[2020.02.06-09.41.08:599][472]LogConcert: Display: Synced activity '474' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Steps.
+[2020.02.06-09.41.08:700][472]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.06-09.41.08:700][472]LogContentValidation: Display: Validating Material /Game/SCP/Black.Black
+[2020.02.06-09.41.08:700][472]LogContentValidation: Display: Validating Material /Game/SCP/DoorFrames.DoorFrames
+[2020.02.06-09.41.08:700][472]LogContentValidation: Display: Validating Material /Game/SCP/Floor.Floor
+[2020.02.06-09.41.08:700][472]LogContentValidation: Display: Validating Material /Game/SCP/Roof.Roof
+[2020.02.06-09.41.08:700][472]LogContentValidation: Display: Validating Material /Game/SCP/lambert1.lambert1
+[2020.02.06-09.41.08:700][472]LogContentValidation: Display: Validating Material /Game/SCP/Pillar.Pillar
+[2020.02.06-09.41.08:700][472]LogContentValidation: Display: Validating Material /Game/SCP/Walls.Walls
+[2020.02.06-09.41.08:700][472]LogContentValidation: Display: Validating StaticMesh /Game/SCP/StraightCoridoor.StraightCoridoor
+[2020.02.06-09.41.08:700][472]LogContentValidation: Display: Validating StaticMesh /Game/SCP/3DoorRoom.3DoorRoom
+[2020.02.06-09.41.08:700][472]LogContentValidation: Display: Validating StaticMesh /Game/SCP/CornerCorridoor.CornerCorridoor
+[2020.02.06-09.41.08:700][472]LogContentValidation: Display: Validating Material /Game/SCP/Railing.Railing
+[2020.02.06-09.41.08:700][472]LogContentValidation: Display: Validating Material /Game/SCP/MetalWall.MetalWall
+[2020.02.06-09.41.08:700][472]LogContentValidation: Display: Validating Material /Game/SCP/KeypadEdges.KeypadEdges
+[2020.02.06-09.41.08:700][472]LogContentValidation: Display: Validating Material /Game/SCP/Keypad.Keypad
+[2020.02.06-09.41.08:700][472]LogContentValidation: Display: Validating StaticMesh /Game/SCP/Elevator.Elevator
+[2020.02.06-09.41.08:700][472]LogContentValidation: Display: Validating StaticMesh /Game/SCP/Office.Office
+[2020.02.06-09.41.08:700][472]LogContentValidation: Display: Validating Material /Game/SCP/Steps.Steps
+[2020.02.06-09.41.10:435][519]LogSlate: Window 'Message Log' being destroyed
+[2020.02.06-09.41.10:450][519]LogSlate: Window 'Message Log' being destroyed
+[2020.02.06-09.41.12:710][571]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 125
+[2020.02.06-09.41.13:408][587]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 115
+[2020.02.06-09.41.15:035][627]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 105
+[2020.02.06-09.41.15:991][653]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 95
+[2020.02.06-09.41.21:373][834]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 85
+[2020.02.06-09.41.22:750][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Materials/Black" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Black.uasset" SILENT=true
+[2020.02.06-09.41.22:752][887]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Black.uasset' error.
+[2020.02.06-09.41.22:767][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Black70A2C1024198CCF295D06A927BC38896.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Black.uasset'
+[2020.02.06-09.41.22:786][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Black" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Black.uasset" SILENT=true
+[2020.02.06-09.41.22:806][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/BlackC584E2114815CB66E8162C9B8B567530.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Black.uasset'
+[2020.02.06-09.41.22:828][887]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/DoorFrames.uasset' error.
+[2020.02.06-09.41.22:852][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/DoorFramesE45319A0439EBC9861C314B2B4AF1464.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/DoorFrames.uasset'
+[2020.02.06-09.41.22:865][887]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 75
+[2020.02.06-09.41.22:866][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/DoorFrames" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/DoorFrames.uasset" SILENT=true
+[2020.02.06-09.41.22:881][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/DoorFrames70E5B6804EDDB8C80F2B69BC2532D1A1.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/DoorFrames.uasset'
+[2020.02.06-09.41.22:909][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Materials/Floor" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Floor.uasset" SILENT=true
+[2020.02.06-09.41.22:913][887]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Floor.uasset' error.
+[2020.02.06-09.41.22:936][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Floor889F9E0345601F40AE225186BC8D6AE3.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Floor.uasset'
+[2020.02.06-09.41.22:952][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Floor" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Floor.uasset" SILENT=true
+[2020.02.06-09.41.22:973][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Floor88AB944F429FDB314E3A1CBBD38FA82F.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Floor.uasset'
+[2020.02.06-09.41.28:620][887]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 65
+[2020.02.06-09.41.28:620][887]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 55
+[2020.02.06-09.41.28:620][887]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 45
+[2020.02.06-09.41.28:620][887]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2020.02.06-09.41.28:620][887]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.02.06-09.41.28:621][887]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.02.06-09.41.28:621][887]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.02.06-09.41.28:621][887]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.02.06-09.41.28:621][887]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.02.06-09.41.28:621][887]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.02.06-09.41.28:676][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Materials/Keypad" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Keypad.uasset" SILENT=true
+[2020.02.06-09.41.28:679][887]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Keypad.uasset' error.
+[2020.02.06-09.41.28:696][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Keypad90B544E84CE0F4F35F21F292D11F1E57.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Keypad.uasset'
+[2020.02.06-09.41.28:715][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Keypad" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Keypad.uasset" SILENT=true
+[2020.02.06-09.41.28:730][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Keypad5CF03E2C40C992806461CD8A4EBDD8D9.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Keypad.uasset'
+[2020.02.06-09.41.28:753][887]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/KeypadEdges.uasset' error.
+[2020.02.06-09.41.28:778][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/KeypadEdgesF2BDB0314A097C2703EEEE9BDB52D612.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/KeypadEdges.uasset'
+[2020.02.06-09.41.28:791][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/KeypadEdges" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/KeypadEdges.uasset" SILENT=true
+[2020.02.06-09.41.28:808][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/KeypadEdges4618E89245950F57EED0278FBFDEDD34.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/KeypadEdges.uasset'
+[2020.02.06-09.41.28:855][887]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/lambert1.uasset' error.
+[2020.02.06-09.41.28:878][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/lambert1DEF1C7E74E05B80840C42EAAD8E35F0C.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/lambert1.uasset'
+[2020.02.06-09.41.28:888][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/lambert1" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/lambert1.uasset" SILENT=true
+[2020.02.06-09.41.28:906][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/lambert1A514F90F422FC360CC066EA0B9FBC843.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/lambert1.uasset'
+[2020.02.06-09.41.28:932][887]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/MetalWall.uasset' error.
+[2020.02.06-09.41.28:955][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/MetalWallE0A241544DF7405FA1CCD990E9BBE5CB.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/MetalWall.uasset'
+[2020.02.06-09.41.28:968][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/MetalWall" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/MetalWall.uasset" SILENT=true
+[2020.02.06-09.41.28:984][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/MetalWall2DD119174E9A4ADE0F2B87B4A3ECA45B.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/MetalWall.uasset'
+[2020.02.06-09.41.29:007][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Materials/Pillar" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Pillar.uasset" SILENT=true
+[2020.02.06-09.41.29:011][887]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Pillar.uasset' error.
+[2020.02.06-09.41.29:050][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/PillarE69F14C94A0AF0ED7CEC4EAFD4011045.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Pillar.uasset'
+[2020.02.06-09.41.29:065][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Pillar" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Pillar.uasset" SILENT=true
+[2020.02.06-09.41.29:086][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Pillar23CB4491486AC8A4B5902087E819280D.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Pillar.uasset'
+[2020.02.06-09.41.29:110][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Materials/Railing" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Railing.uasset" SILENT=true
+[2020.02.06-09.41.29:113][887]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Railing.uasset' error.
+[2020.02.06-09.41.29:140][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/RailingF64073084F5B47A38AD005ACD3056E1C.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Railing.uasset'
+[2020.02.06-09.41.29:154][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Railing" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Railing.uasset" SILENT=true
+[2020.02.06-09.41.29:184][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Railing1ABA4386491E12621A1604957A71BAF2.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Railing.uasset'
+[2020.02.06-09.41.29:211][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Materials/Roof" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Roof.uasset" SILENT=true
+[2020.02.06-09.41.29:213][887]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Roof.uasset' error.
+[2020.02.06-09.41.29:243][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Roof9AAAF974452E5C208C669DB52F4199B4.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Roof.uasset'
+[2020.02.06-09.41.29:258][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Roof" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Roof.uasset" SILENT=true
+[2020.02.06-09.41.29:275][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Roof1E297EC9427C45D065E63D908FF5AB00.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Roof.uasset'
+[2020.02.06-09.41.29:764][887]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.06-09.41.29:764][887]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.06-09.41.29:764][887]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.06-09.41.29:777][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Materials/Steps" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Steps.uasset" SILENT=true
+[2020.02.06-09.41.29:778][887]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Steps.uasset' error.
+[2020.02.06-09.41.29:790][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/StepsC6BC2C1141230A93B9BF5DB02E3692C6.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Steps.uasset'
+[2020.02.06-09.41.29:799][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Steps" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Steps.uasset" SILENT=true
+[2020.02.06-09.41.29:810][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Steps980716074553245D9CAFAEB3F256DE1B.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Steps.uasset'
+[2020.02.06-09.41.29:826][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Materials/Walls" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Walls.uasset" SILENT=true
+[2020.02.06-09.41.29:828][887]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Walls.uasset' error.
+[2020.02.06-09.41.29:841][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/WallsE74804954607E4DB5886E5B56BC23D15.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Materials/Walls.uasset'
+[2020.02.06-09.41.29:849][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Walls" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Walls.uasset" SILENT=true
+[2020.02.06-09.41.29:861][887]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Walls3A1A0E834A06C025ACEB359E1C3F8961.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Walls.uasset'
+[2020.02.06-09.41.29:955][887]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating Material /Game/SCP/Materials/Black.Black
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/Black.Black
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating Material /Game/SCP/Materials/DoorFrames.DoorFrames
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/DoorFrames.DoorFrames
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating Material /Game/SCP/Materials/Floor.Floor
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/Floor.Floor
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating Material /Game/SCP/Materials/Keypad.Keypad
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/Keypad.Keypad
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating Material /Game/SCP/Materials/KeypadEdges.KeypadEdges
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/KeypadEdges.KeypadEdges
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating Material /Game/SCP/Materials/lambert1.lambert1
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/lambert1.lambert1
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating Material /Game/SCP/Materials/MetalWall.MetalWall
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/MetalWall.MetalWall
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating Material /Game/SCP/Materials/Pillar.Pillar
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/Pillar.Pillar
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating Material /Game/SCP/Materials/Railing.Railing
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/Railing.Railing
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating Material /Game/SCP/Materials/Roof.Roof
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/Roof.Roof
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating Material /Game/SCP/Materials/Steps.Steps
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/Steps.Steps
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating Material /Game/SCP/Materials/Walls.Walls
+[2020.02.06-09.41.29:955][887]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/Walls.Walls
+[2020.02.06-09.41.30:071][888]LogConcert: Display: Synced activity '475' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Materials/Black.
+[2020.02.06-09.41.30:071][888]LogConcert: Display: Synced activity '476' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Materials/DoorFrames.
+[2020.02.06-09.41.30:072][888]LogConcert: Display: Synced activity '477' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Materials/Floor.
+[2020.02.06-09.41.30:072][888]LogConcert: Display: Synced activity '478' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Materials/Keypad.
+[2020.02.06-09.41.30:072][888]LogConcert: Display: Synced activity '479' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Materials/KeypadEdges.
+[2020.02.06-09.41.30:072][888]LogConcert: Display: Synced activity '480' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Materials/lambert1.
+[2020.02.06-09.41.30:073][888]LogConcert: Display: Synced activity '481' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Materials/MetalWall.
+[2020.02.06-09.41.30:073][888]LogConcert: Display: Synced activity '482' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Materials/Pillar.
+[2020.02.06-09.41.30:073][888]LogConcert: Display: Synced activity '483' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Materials/Railing.
+[2020.02.06-09.41.30:073][888]LogConcert: Display: Synced activity '484' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Materials/Roof.
+[2020.02.06-09.41.30:074][888]LogConcert: Display: Synced activity '485' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Materials/Steps.
+[2020.02.06-09.41.30:074][888]LogConcert: Display: Synced activity '486' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Materials/Walls.
+[2020.02.06-09.41.30:090][888]LogConcert: Display: Synced activity '487' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan saved package /Game/SCP/Materials/Black.
+[2020.02.06-09.41.30:090][888]LogConcert: Display: Synced activity '488' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Materials/Black.
+[2020.02.06-09.41.30:094][888]LogConcert: Display: Synced activity '489' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan renamed package /Game/SCP/Black to /Game/SCP/Materials/Black.
+[2020.02.06-09.41.30:094][888]LogConcert: Display: Synced activity '490' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Black.
+[2020.02.06-09.41.30:110][888]LogConcert: Display: Synced activity '491' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan saved package /Game/SCP/Materials/DoorFrames.
+[2020.02.06-09.41.30:110][888]LogConcert: Display: Synced activity '492' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Materials/DoorFrames.
+[2020.02.06-09.41.30:114][888]LogConcert: Display: Synced activity '493' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan renamed package /Game/SCP/DoorFrames to /Game/SCP/Materials/DoorFrames.
+[2020.02.06-09.41.30:115][888]LogConcert: Display: Synced activity '494' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/DoorFrames.
+[2020.02.06-09.41.30:131][888]LogConcert: Display: Synced activity '495' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan saved package /Game/SCP/Materials/Floor.
+[2020.02.06-09.41.30:132][888]LogConcert: Display: Synced activity '496' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Materials/Floor.
+[2020.02.06-09.41.30:136][888]LogConcert: Display: Synced activity '497' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan renamed package /Game/SCP/Floor to /Game/SCP/Materials/Floor.
+[2020.02.06-09.41.30:136][888]LogConcert: Display: Synced activity '498' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Floor.
+[2020.02.06-09.41.30:149][888]LogConcert: Display: Synced activity '499' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan saved package /Game/SCP/Materials/Keypad.
+[2020.02.06-09.41.30:149][888]LogConcert: Display: Synced activity '500' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Materials/Keypad.
+[2020.02.06-09.41.30:153][888]LogConcert: Display: Synced activity '501' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan renamed package /Game/SCP/Keypad to /Game/SCP/Materials/Keypad.
+[2020.02.06-09.41.30:153][888]LogConcert: Display: Synced activity '502' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Keypad.
+[2020.02.06-09.41.30:166][888]LogConcert: Display: Synced activity '503' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan saved package /Game/SCP/Materials/KeypadEdges.
+[2020.02.06-09.41.30:167][888]LogConcert: Display: Synced activity '504' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Materials/KeypadEdges.
+[2020.02.06-09.41.30:171][888]LogConcert: Display: Synced activity '505' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan renamed package /Game/SCP/KeypadEdges to /Game/SCP/Materials/KeypadEdges.
+[2020.02.06-09.41.30:172][888]LogConcert: Display: Synced activity '506' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/KeypadEdges.
+[2020.02.06-09.41.30:184][888]LogConcert: Display: Synced activity '507' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan saved package /Game/SCP/Materials/lambert1.
+[2020.02.06-09.41.30:184][888]LogConcert: Display: Synced activity '508' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Materials/lambert1.
+[2020.02.06-09.41.30:190][888]LogConcert: Display: Synced activity '509' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan renamed package /Game/SCP/lambert1 to /Game/SCP/Materials/lambert1.
+[2020.02.06-09.41.30:190][888]LogConcert: Display: Synced activity '510' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/lambert1.
+[2020.02.06-09.41.30:210][888]LogConcert: Display: Synced activity '511' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan saved package /Game/SCP/Materials/MetalWall.
+[2020.02.06-09.41.30:210][888]LogConcert: Display: Synced activity '512' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Materials/MetalWall.
+[2020.02.06-09.41.30:223][888]LogConcert: Display: Synced activity '513' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan renamed package /Game/SCP/MetalWall to /Game/SCP/Materials/MetalWall.
+[2020.02.06-09.41.30:225][888]LogConcert: Display: Synced activity '514' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/MetalWall.
+[2020.02.06-09.41.30:243][888]LogConcert: Display: Synced activity '515' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan saved package /Game/SCP/Materials/Pillar.
+[2020.02.06-09.41.30:243][888]LogConcert: Display: Synced activity '516' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Materials/Pillar.
+[2020.02.06-09.41.30:248][888]LogConcert: Display: Synced activity '517' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan renamed package /Game/SCP/Pillar to /Game/SCP/Materials/Pillar.
+[2020.02.06-09.41.30:248][888]LogConcert: Display: Synced activity '518' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Pillar.
+[2020.02.06-09.41.30:265][888]LogConcert: Display: Synced activity '519' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan saved package /Game/SCP/Materials/Railing.
+[2020.02.06-09.41.30:265][888]LogConcert: Display: Synced activity '520' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Materials/Railing.
+[2020.02.06-09.41.30:270][888]LogConcert: Display: Synced activity '521' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan renamed package /Game/SCP/Railing to /Game/SCP/Materials/Railing.
+[2020.02.06-09.41.30:270][888]LogConcert: Display: Synced activity '522' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Railing.
+[2020.02.06-09.41.30:286][888]LogConcert: Display: Synced activity '523' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan saved package /Game/SCP/Materials/Roof.
+[2020.02.06-09.41.30:286][888]LogConcert: Display: Synced activity '524' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Materials/Roof.
+[2020.02.06-09.41.30:291][888]LogConcert: Display: Synced activity '525' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan renamed package /Game/SCP/Roof to /Game/SCP/Materials/Roof.
+[2020.02.06-09.41.30:291][888]LogConcert: Display: Synced activity '526' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Roof.
+[2020.02.06-09.41.30:305][888]LogConcert: Display: Synced activity '527' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan saved package /Game/SCP/Materials/Steps.
+[2020.02.06-09.41.30:305][888]LogConcert: Display: Synced activity '528' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Materials/Steps.
+[2020.02.06-09.41.30:310][888]LogConcert: Display: Synced activity '529' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan renamed package /Game/SCP/Steps to /Game/SCP/Materials/Steps.
+[2020.02.06-09.41.30:310][888]LogConcert: Display: Synced activity '530' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Steps.
+[2020.02.06-09.41.30:323][888]LogConcert: Display: Synced activity '531' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan saved package /Game/SCP/Materials/Walls.
+[2020.02.06-09.41.30:323][888]LogConcert: Display: Synced activity '532' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Materials/Walls.
+[2020.02.06-09.41.30:328][888]LogConcert: Display: Synced activity '533' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan renamed package /Game/SCP/Walls to /Game/SCP/Materials/Walls.
+[2020.02.06-09.41.30:328][888]LogConcert: Display: Synced activity '534' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Walls.
+[2020.02.06-09.41.43:669][294]LogMetaData: Removing '/Game/SCP/Models/3DoorRoom.3DoorRoom' ref from Metadata '/Game/SCP/3DoorRoom.PackageMetaData'
+[2020.02.06-09.41.43:672][294]LogMetaData: Removing '/Game/SCP/Models/CornerCorridoor.CornerCorridoor' ref from Metadata '/Game/SCP/CornerCorridoor.PackageMetaData'
+[2020.02.06-09.41.43:674][294]LogMetaData: Removing '/Game/SCP/Models/Elevator.Elevator' ref from Metadata '/Game/SCP/Elevator.PackageMetaData'
+[2020.02.06-09.41.43:676][294]LogMetaData: Removing '/Game/SCP/Models/Office.Office' ref from Metadata '/Game/SCP/Office.PackageMetaData'
+[2020.02.06-09.41.43:679][294]LogMetaData: Removing '/Game/SCP/Models/StraightCoridoor.StraightCoridoor' ref from Metadata '/Game/SCP/StraightCoridoor.PackageMetaData'
+[2020.02.06-09.41.43:718][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Models/3DoorRoom" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Models/3DoorRoom.uasset" SILENT=true
+[2020.02.06-09.41.43:720][294]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Models/3DoorRoom.uasset' error.
+[2020.02.06-09.41.43:735][294]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/3DoorRoom65F4EAAC497261A60EB8DF9487298841.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Models/3DoorRoom.uasset'
+[2020.02.06-09.41.43:743][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/3DoorRoom" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/3DoorRoom.uasset" SILENT=true
+[2020.02.06-09.41.43:757][294]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/3DoorRoom192FF1EA4DD74F8A2AB542ABD009FD2F.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/3DoorRoom.uasset'
+[2020.02.06-09.41.43:772][294]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Models/CornerCorridoor.uasset' error.
+[2020.02.06-09.41.43:788][294]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/CornerCorridoorEE8D99DF49DE105A299753B90167A6BD.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Models/CornerCorridoor.uasset'
+[2020.02.06-09.41.43:797][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/CornerCorridoor" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/CornerCorridoor.uasset" SILENT=true
+[2020.02.06-09.41.43:812][294]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/CornerCorridoorA5EC205D4DD1F683BF683E876F4C01F4.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/CornerCorridoor.uasset'
+[2020.02.06-09.41.43:826][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Models/Elevator" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Models/Elevator.uasset" SILENT=true
+[2020.02.06-09.41.43:828][294]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Models/Elevator.uasset' error.
+[2020.02.06-09.41.43:843][294]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/ElevatorD5B84ECF4417AFED6F950987F501D301.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Models/Elevator.uasset'
+[2020.02.06-09.41.43:851][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Elevator" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Elevator.uasset" SILENT=true
+[2020.02.06-09.41.43:864][294]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/Elevator735FCCDA4CCE3A748D04D6BBF156F69A.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Elevator.uasset'
+[2020.02.06-09.41.43:878][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Models/Office" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Models/Office.uasset" SILENT=true
+[2020.02.06-09.41.43:879][294]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Models/Office.uasset' error.
+[2020.02.06-09.41.43:892][294]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/OfficeDBD9DFBB426E95A7D1A6E9B9E3F512F1.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Models/Office.uasset'
+[2020.02.06-09.41.43:901][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/Office" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Office.uasset" SILENT=true
+[2020.02.06-09.41.43:916][294]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/OfficeEFC4319D41AC00282086518DE6AAA462.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Office.uasset'
+[2020.02.06-09.41.43:932][294]LogStreaming: Warning: Failed to read file '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Models/StraightCoridoor.uasset' error.
+[2020.02.06-09.41.43:947][294]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/StraightCoridoor4C901C724291CC588B07F0BB760ED305.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/Models/StraightCoridoor.uasset'
+[2020.02.06-09.41.43:957][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SCP/StraightCoridoor" FILE="../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/StraightCoridoor.uasset" SILENT=true
+[2020.02.06-09.41.43:970][294]LogSavePackage: Moving '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Saved/StraightCoridoor5F3A0BBC48263FAC8FB360AD2A3A5A00.tmp' to '../../../../../../Users/Boomsatsuma/Documents/Cool stuff/SCP game/SCP Github/SCP-game/SCP/Content/SCP/StraightCoridoor.uasset'
+[2020.02.06-09.41.44:023][294]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.06-09.41.44:023][294]LogContentValidation: Display: Validating StaticMesh /Game/SCP/Models/3DoorRoom.3DoorRoom
+[2020.02.06-09.41.44:023][294]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/3DoorRoom.3DoorRoom
+[2020.02.06-09.41.44:023][294]LogContentValidation: Display: Validating StaticMesh /Game/SCP/Models/CornerCorridoor.CornerCorridoor
+[2020.02.06-09.41.44:023][294]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/CornerCorridoor.CornerCorridoor
+[2020.02.06-09.41.44:023][294]LogContentValidation: Display: Validating StaticMesh /Game/SCP/Models/Elevator.Elevator
+[2020.02.06-09.41.44:023][294]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/Elevator.Elevator
+[2020.02.06-09.41.44:023][294]LogContentValidation: Display: Validating StaticMesh /Game/SCP/Models/Office.Office
+[2020.02.06-09.41.44:023][294]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/Office.Office
+[2020.02.06-09.41.44:023][294]LogContentValidation: Display: Validating StaticMesh /Game/SCP/Models/StraightCoridoor.StraightCoridoor
+[2020.02.06-09.41.44:023][294]LogContentValidation: Display: Validating ObjectRedirector /Game/SCP/StraightCoridoor.StraightCoridoor
+[2020.02.06-09.41.44:059][295]LogConcert: Display: Synced activity '535' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/3DoorRoom.
+[2020.02.06-09.41.44:060][295]LogConcert: Display: Synced activity '536' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/3DoorRoom.
+[2020.02.06-09.41.44:060][295]LogConcert: Display: Synced activity '537' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/CornerCorridoor.
+[2020.02.06-09.41.44:060][295]LogConcert: Display: Synced activity '538' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/CornerCorridoor.
+[2020.02.06-09.41.44:060][295]LogConcert: Display: Synced activity '539' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Elevator.
+[2020.02.06-09.41.44:060][295]LogConcert: Display: Synced activity '540' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Elevator.
+[2020.02.06-09.41.44:061][295]LogConcert: Display: Synced activity '541' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Office.
+[2020.02.06-09.41.44:061][295]LogConcert: Display: Synced activity '542' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/Office.
+[2020.02.06-09.41.44:061][295]LogConcert: Display: Synced activity '543' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/StraightCoridoor.
+[2020.02.06-09.41.44:061][295]LogConcert: Display: Synced activity '544' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan locked /Game/SCP/Models/StraightCoridoor.
+[2020.02.06-09.41.44:076][295]LogConcert: Display: Synced activity '545' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan saved package /Game/SCP/Models/3DoorRoom.
+[2020.02.06-09.41.44:077][295]LogConcert: Display: Synced activity '546' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/3DoorRoom.
+[2020.02.06-09.41.44:082][295]LogConcert: Display: Synced activity '547' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan renamed package /Game/SCP/3DoorRoom to /Game/SCP/Models/3DoorRoom.
+[2020.02.06-09.41.44:083][295]LogConcert: Display: Synced activity '548' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/3DoorRoom.
+[2020.02.06-09.41.44:099][295]LogConcert: Display: Synced activity '549' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan saved package /Game/SCP/Models/CornerCorridoor.
+[2020.02.06-09.41.44:099][295]LogConcert: Display: Synced activity '550' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/CornerCorridoor.
+[2020.02.06-09.41.44:103][295]LogConcert: Display: Synced activity '551' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan renamed package /Game/SCP/CornerCorridoor to /Game/SCP/Models/CornerCorridoor.
+[2020.02.06-09.41.44:103][295]LogConcert: Display: Synced activity '552' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/CornerCorridoor.
+[2020.02.06-09.41.44:116][295]LogConcert: Display: Synced activity '553' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan saved package /Game/SCP/Models/Elevator.
+[2020.02.06-09.41.44:117][295]LogConcert: Display: Synced activity '554' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/Elevator.
+[2020.02.06-09.41.44:121][295]LogConcert: Display: Synced activity '555' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan renamed package /Game/SCP/Elevator to /Game/SCP/Models/Elevator.
+[2020.02.06-09.41.44:121][295]LogConcert: Display: Synced activity '556' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Elevator.
+[2020.02.06-09.41.44:132][295]LogConcert: Display: Synced activity '557' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan saved package /Game/SCP/Models/Office.
+[2020.02.06-09.41.44:133][295]LogConcert: Display: Synced activity '558' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/Office.
+[2020.02.06-09.41.44:138][295]LogConcert: Display: Synced activity '559' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan renamed package /Game/SCP/Office to /Game/SCP/Models/Office.
+[2020.02.06-09.41.44:138][295]LogConcert: Display: Synced activity '560' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Office.
+[2020.02.06-09.41.44:151][295]LogConcert: Display: Synced activity '561' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan saved package /Game/SCP/Models/StraightCoridoor.
+[2020.02.06-09.41.44:151][295]LogConcert: Display: Synced activity '562' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/Models/StraightCoridoor.
+[2020.02.06-09.41.44:156][295]LogConcert: Display: Synced activity '563' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan renamed package /Game/SCP/StraightCoridoor to /Game/SCP/Models/StraightCoridoor.
+[2020.02.06-09.41.44:156][295]LogConcert: Display: Synced activity '564' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan unlocked /Game/SCP/StraightCoridoor.
+[2020.02.06-09.41.54:469][681]LogActorFactory: Actor Factory created 3DoorRoom
+[2020.02.06-09.41.56:919][808]LogActorFactory: Actor Factory created 3DoorRoom
+[2020.02.06-09.41.57:071][811]LogConcert: Display: Synced activity '565' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan created 3DoorRoom_2 in /Game/SCP/Levels/Level_1.
+[2020.02.06-09.42.05:231][196]LogConcert: Display: Synced activity '566' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan modified 3DoorRoom_2.StaticMeshComponent0 in /Game/SCP/Levels/Level_1.
+[2020.02.06-09.42.06:485][247]LogConcert: Display: Synced activity '567' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan modified 3DoorRoom_2.StaticMeshComponent0 in /Game/SCP/Levels/Level_1.
+[2020.02.06-09.42.07:858][311]LogConcert: Display: Synced activity '568' produced by endpoint '97B8E9AB43EE2FD22B5A32912C0F04D6': Dylan modified 3DoorRoom_2.StaticMeshComponent0 in /Game/SCP/Levels/Level_1.
+[2020.02.06-09.42.07:890][312]LogEditorViewport: Clicking Background
